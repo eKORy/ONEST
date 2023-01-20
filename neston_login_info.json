@@ -1,0 +1,636 @@
+{
+
+    "SelectMarketer": "witwit19,witwit20,witwit21",
+    "witwit19" : {
+        "id" : "witwit19",
+        "pw" : "onest123!!",
+        "SelectMaster" : "lottei1,mario4321",
+        "lottei1" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 334615,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "132182741",
+                    "siteId": 2,
+                    "masterId": 334615,
+                    "sellerId": "lottei1",
+                    "sellerName": "롯데홈쇼핑입니다"
+                },
+                {
+                    "sellerCustNo": "132201438",
+                    "siteId": 2,
+                    "masterId": 334615,
+                    "sellerId": "lottetv1",
+                    "sellerName": "롯데 홈쇼핑"
+                },
+                {
+                    "sellerCustNo": "132201426",
+                    "siteId": 2,
+                    "masterId": 334615,
+                    "sellerId": "lottedep1",
+                    "sellerName": "롯데홈쇼핑롯데백화점"
+                },
+                {
+                    "sellerCustNo": "153420482",
+                    "siteId": 2,
+                    "masterId": 334615,
+                    "sellerId": "lottedep",
+                    "sellerName": "롯데 백화점"
+                },
+                {
+                    "sellerCustNo": "153444153",
+                    "siteId": 2,
+                    "masterId": 334615,
+                    "sellerId": "lottei2",
+                    "sellerName": "롯데 아이몰"
+                },
+                {
+                    "sellerCustNo": "153420481",
+                    "siteId": 2,
+                    "masterId": 334615,
+                    "sellerId": "lotteotv",
+                    "sellerName": "롯데 원티비"
+                },
+                {
+                    "sellerCustNo": "153420480",
+                    "siteId": 2,
+                    "masterId": 334615,
+                    "sellerId": "lottetv",
+                    "sellerName": "롯데  홈쇼핑"
+                },
+                {
+                    "sellerCustNo": "lottei1",
+                    "siteId": 1,
+                    "masterId": 334615,
+                    "sellerId": "lottei1",
+                    "sellerName": "롯데홈쇼핑입니다"
+                },
+                {
+                    "sellerCustNo": "lottedep1",
+                    "siteId": 1,
+                    "masterId": 334615,
+                    "sellerId": "lottedep1",
+                    "sellerName": "롯데백화점_롯데홈"
+                },
+                {
+                    "sellerCustNo": "lottetv1",
+                    "siteId": 1,
+                    "masterId": 334615,
+                    "sellerId": "lottetv1",
+                    "sellerName": "롯데홈쇼핑TV"
+                },
+                {
+                    "sellerCustNo": "lottei2",
+                    "siteId": 1,
+                    "masterId": 334615,
+                    "sellerId": "lottei2",
+                    "sellerName": "롯데imall"
+                },
+                {
+                    "sellerCustNo": "lottedep",
+                    "siteId": 1,
+                    "masterId": 334615,
+                    "sellerId": "lottedep",
+                    "sellerName": "롯데백화점2관_"
+                },
+                {
+                    "sellerCustNo": "lotteotv",
+                    "siteId": 1,
+                    "masterId": 334615,
+                    "sellerId": "lotteotv",
+                    "sellerName": "롯데원티비"
+                },
+                {
+                    "sellerCustNo": "lottetv2",
+                    "siteId": 1,
+                    "masterId": 334615,
+                    "sellerId": "lottetv2",
+                    "sellerName": "롯데TV홈쇼핑"
+                }
+            ]
+            
+        },
+
+        "mario4321" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 47820,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "122430410",
+                    "siteId": 2,
+                    "masterId": 47820,
+                    "sellerId": "mario4321",
+                    "sellerName": "마리오아울렛"
+                },
+                {
+                    "sellerCustNo": "129909551",
+                    "siteId": 2,
+                    "masterId": 47820,
+                    "sellerId": "marioapi",
+                    "sellerName": "마리오아울렛1"
+                },
+                {
+                    "sellerCustNo": "129909550",
+                    "siteId": 2,
+                    "masterId": 47820,
+                    "sellerId": "mariog9",
+                    "sellerName": "마리오아울렛G9"
+                },
+                {
+                    "sellerCustNo": "mario4321",
+                    "siteId": 1,
+                    "masterId": 47820,
+                    "sellerId": "mario4321",
+                    "sellerName": "마리오아울렛"
+                },
+                {
+                    "sellerCustNo": "marioapi",
+                    "siteId": 1,
+                    "masterId": 47820,
+                    "sellerId": "marioapi",
+                    "sellerName": "마리오아울렛1"
+                }
+            ]
+        },
+
+        "specialistum" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 373056,
+            "sellerList" : [
+                {
+                  "sellerCustNo": "135395242",
+                  "siteId": 2,
+                  "masterId": 373056,
+                  "sellerId": "hnsmall",
+                  "sellerName": "홈앤쇼핑"
+                },
+                {
+                  "sellerCustNo": "135413349",
+                  "siteId": 2,
+                  "masterId": 373056,
+                  "sellerId": "hnsmalltv",
+                  "sellerName": "홈앤 쇼핑"
+                },
+                {
+                  "sellerCustNo": "136732806",
+                  "siteId": 2,
+                  "masterId": 373056,
+                  "sellerId": "hnstest",
+                  "sellerName": "홈앤쇼핑 테스트"
+                },
+                {
+                  "sellerCustNo": "149407396",
+                  "siteId": 2,
+                  "masterId": 373056,
+                  "sellerId": "hnsmec",
+                  "sellerName": "홈앤쇼핑1"
+                },
+                {
+                  "sellerCustNo": "149407397",
+                  "siteId": 2,
+                  "masterId": 373056,
+                  "sellerId": "hnstest0",
+                  "sellerName": "홈앤쇼핑2"
+                },
+                {
+                  "sellerCustNo": "149408074",
+                  "siteId": 2,
+                  "masterId": 373056,
+                  "sellerId": "hnstvc",
+                  "sellerName": "홈앤쇼핑3"
+                },
+                {
+                  "sellerCustNo": "hnsmall",
+                  "siteId": 1,
+                  "masterId": 373056,
+                  "sellerId": "hnsmall",
+                  "sellerName": "(주)홈앤쇼핑"
+                },
+                {
+                  "sellerCustNo": "hnsmalltv",
+                  "siteId": 1,
+                  "masterId": 373056,
+                  "sellerId": "hnsmalltv",
+                  "sellerName": "홈앤쇼핑TV"
+                },
+                {
+                  "sellerCustNo": "hnstest",
+                  "siteId": 1,
+                  "masterId": 373056,
+                  "sellerId": "hnstest",
+                  "sellerName": "홈앤쇼핑테스트"
+                }
+            ]
+        },
+
+        "g1300kcom" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 7820,
+            "sellerList" : [
+                {
+                  "sellerCustNo": "122614790",
+                  "siteId": 2,
+                  "masterId": 7820,
+                  "sellerId": "gsmilage",
+                  "sellerName": "SMILAGE"
+                },
+                {
+                  "sellerCustNo": "118951543",
+                  "siteId": 2,
+                  "masterId": 7820,
+                  "sellerId": "G1200M",
+                  "sellerName": "1200M"
+                },
+                {
+                  "sellerCustNo": "103033406",
+                  "siteId": 2,
+                  "masterId": 7820,
+                  "sellerId": "g1300kcom",
+                  "sellerName": "1300K"
+                },
+                {
+                  "sellerCustNo": "132445912",
+                  "siteId": 2,
+                  "masterId": 7820,
+                  "sellerId": "fashionpop",
+                  "sellerName": "패션 팝"
+                },
+                {
+                  "sellerCustNo": "143532599",
+                  "siteId": 2,
+                  "masterId": 7820,
+                  "sellerId": "9smilage",
+                  "sellerName": "NHNwetoo"
+                },
+                {
+                  "sellerCustNo": "1200mcom",
+                  "siteId": 1,
+                  "masterId": 7820,
+                  "sellerId": "1200mcom",
+                  "sellerName": "천이백엠1200M"
+                },
+                {
+                  "sellerCustNo": "1300kcom",
+                  "siteId": 1,
+                  "masterId": 7820,
+                  "sellerId": "1300kcom",
+                  "sellerName": "A1300K"
+                },
+                {
+                  "sellerCustNo": "gabangpop",
+                  "siteId": 1,
+                  "masterId": 7820,
+                  "sellerId": "gabangpop",
+                  "sellerName": "가방pop"
+                }
+            ]
+        }
+            
+    },
+
+    "witwit20" : {
+        "id" : "witwit20",
+        "pw" : "Rnjsthdxor11!!",
+        "SelectMaster" : "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare",
+        "kam486" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 349765,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "133192431",
+                    "siteId": 2,
+                    "masterId": 349765,
+                    "sellerId": "gmktag486",
+                    "sellerName": "gmktag486"
+                },
+                {
+                    "sellerCustNo": "auction_ag486",
+                    "siteId": 1,
+                    "masterId": 349765,
+                    "sellerId": "auction_ag486",
+                    "sellerName": "auction_ag486"
+                }
+            ]
+        },
+        "pncg3936" :{
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 442880,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "123338010",
+                    "siteId": 2,
+                    "masterId": 442880,
+                    "sellerId": "pncg3936",
+                    "sellerName": "멸치쇼핑_리치빔"
+                },
+                {
+                    "sellerCustNo": "146178479",
+                    "siteId": 2,
+                    "masterId": 442880,
+                    "sellerId": "richbeam1",
+                    "sellerName": "멸치쇼핑"
+                },
+                {
+                    "sellerCustNo": "richbeam1",
+                    "siteId": 1,
+                    "masterId": 442880,
+                    "sellerId": "richbeam1",
+                    "sellerName": "리치빔"
+                }
+            ]
+        },
+        "borikids" :{
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 2096,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "118655286",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "ogagemall",
+                    "sellerName": "ogage"
+                },
+                {
+                    "sellerCustNo": "122337693",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "outdoors12",
+                    "sellerName": "아웃도어스"
+                },
+                {
+                    "sellerCustNo": "122605797",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "borikids",
+                    "sellerName": "boribori2"
+                },
+                {
+                    "sellerCustNo": "122400580",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "halfcom1",
+                    "sellerName": "하프클럽1"
+                },
+                {
+                    "sellerCustNo": "121899427",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "halfglobal",
+                    "sellerName": "하프클럽 글로벌"
+                },
+                {
+                    "sellerCustNo": "122576315",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "tricycle12",
+                    "sellerName": "Ostyle1"
+                },
+                {
+                    "sellerCustNo": "118546673",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "halfcom",
+                    "sellerName": "하프클럽"
+                },
+                {
+                    "sellerCustNo": "103719175",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "triadmin",
+                    "sellerName": "boribori"
+                },
+                {
+                    "sellerCustNo": "123780059",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "halfwmall",
+                    "sellerName": "하프클럽 W몰"
+                },
+                {
+                    "sellerCustNo": "123890364",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "halfever21",
+                    "sellerName": "하프클럽 포에버21"
+                },
+                {
+                    "sellerCustNo": "124047864",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "ogage12",
+                    "sellerName": "오가게샵"
+                },
+                {
+                    "sellerCustNo": "124345030",
+                    "siteId": 2,
+                    "masterId": 2096,
+                    "sellerId": "boriset",
+                    "sellerName": "onlybori"
+                },
+                {
+                    "sellerCustNo": "borikids",
+                    "siteId": 1,
+                    "masterId": 2096,
+                    "sellerId": "borikids",
+                    "sellerName": "보리2"
+                },
+                {
+                    "sellerCustNo": "half1234",
+                    "siteId": 1,
+                    "masterId": 2096,
+                    "sellerId": "half1234",
+                    "sellerName": "하프클럽"
+                },
+                {
+                    "sellerCustNo": "ogagemall",
+                    "siteId": 1,
+                    "masterId": 2096,
+                    "sellerId": "ogagemall",
+                    "sellerName": "오가게"
+                },
+                {
+                    "sellerCustNo": "outdous",
+                    "siteId": 1,
+                    "masterId": 2096,
+                    "sellerId": "outdous",
+                    "sellerName": "아웃도어스"
+                },
+                {
+                    "sellerCustNo": "dgs_0190",
+                    "siteId": 1,
+                    "masterId": 2096,
+                    "sellerId": "dgs_0190",
+                    "sellerName": "하프클럽글로벌"
+                }
+            ]
+        },
+        "yhsangsa03" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 402866,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "141692510",
+                    "siteId": 2,
+                    "masterId": 402866,
+                    "sellerId": "yhsangsa7",
+                    "sellerName": "mars_choco"
+                },
+                {
+                    "sellerCustNo": "141750795",
+                    "siteId": 2,
+                    "masterId": 402866,
+                    "sellerId": "yhsangsa07",
+                    "sellerName": "mars_chocolate"
+                },
+                {
+                    "sellerCustNo": "yhsangsa7",
+                    "siteId": 1,
+                    "masterId": 402866,
+                    "sellerId": "yhsangsa7",
+                    "sellerName": "한국마즈공식대리점점"
+                },
+                {
+                    "sellerCustNo": "yhsangsa07",
+                    "siteId": 1,
+                    "masterId": 402866,
+                    "sellerId": "yhsangsa07",
+                    "sellerName": "한국마즈"
+                }
+            ]
+        },
+        "ozkiz" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 192847,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "124511107",
+                    "siteId": 2,
+                    "masterId": 192847,
+                    "sellerId": "ozkizcom",
+                    "sellerName": "오즈키즈닷컴"
+                },
+                {
+                    "sellerCustNo": "ozkizcom",
+                    "siteId": 1,
+                    "masterId": 192847,
+                    "sellerId": "ozkizcom",
+                    "sellerName": "오즈키즈닷컴"
+                }
+                
+            ]
+        },
+        "dooricare" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 523851,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "114856247",
+                    "siteId": 2,
+                    "masterId": 523851,
+                    "sellerId": "doorishop",
+                    "sellerName": "두리화장품(주)"
+                },
+                {
+                    "sellerCustNo": "doorishop",
+                    "siteId": 1,
+                    "masterId": 523851,
+                    "sellerId": "doorishop",
+                    "sellerName": "doorishop"
+                }                
+            ]
+        }
+
+    },
+    "witwit21" : {
+        "id" : "witwit21",
+        "pw" : "123qweasdZXC!",
+        "SelectMaster" : "glcom3445,inksystem,kerasal99",
+        "glcom3445" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 7774,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "120162473",
+                    "siteId": 2,
+                    "masterId": 7774,
+                    "sellerId": "glcomm1",
+                    "sellerName": "지엘커뮤니케이션즈"
+                },
+                {
+                    "sellerCustNo": "glcom3445",
+                    "siteId": 1,
+                    "masterId": 7774,
+                    "sellerId": "glcom3445",
+                    "sellerName": "gl"
+                }
+            ]
+        },
+        "inksystem" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 108350,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "122962249",
+                    "siteId": 2,
+                    "masterId": 108350,
+                    "sellerId": "inksystem",
+                    "sellerName": "주식회사잉스"
+                },
+                {
+                    "sellerCustNo": "inksystem",
+                    "siteId": 1,
+                    "masterId": 108350,
+                    "sellerId": "inksystem",
+                    "sellerName": "주식회사잉스"
+                }
+            ]
+        },
+        "kerasal99" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 436668,
+            "sellerList" : [
+                {
+                  "sellerCustNo": "144284108",
+                  "siteId": 2,
+                  "masterId": 436668,
+                  "sellerId": "kerasal99",
+                  "sellerName": "케라셀"
+                },
+                {
+                  "sellerCustNo": "kerasal99",
+                  "siteId": 1,
+                  "masterId": 436668,
+                  "sellerId": "kerasal99",
+                  "sellerName": "케라셀"
+                }
+              ]
+        }
+    }
+
+}
