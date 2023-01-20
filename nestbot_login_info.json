@@ -1,0 +1,148 @@
+{
+    "master" : [
+        {
+            "id" : "witwit19",
+            "pw" : "onest123!!",
+            "masterId" : "lottei1",
+            "master_num" : 334615,
+            "buget" : 0,
+            "seller" : [
+                {
+                    "sellerId" : "lottei1"
+                },
+                {   
+                    "sellerId" : "lottedep1"
+                },
+                {
+                    "sellerId" : "lottetv1"
+                },
+                {
+                    "sellerId" : "lottetv2"
+                },
+                {
+                    "sellerId" : "lottetv"
+                },
+                {
+                    "sellerId" : "lottei2"
+                },
+                {
+                    "sellerId" : "lottedep"
+                },
+                {
+                    "sellerId" : "lotteotv"
+                }
+            ]
+
+        },
+
+        {
+            "id" : "witwit19",
+            "pw" : "onest123!!",
+            "masterId" : "mario4321",
+            "master_num" : 47820,
+            "buget" : 0,
+            "seller" : [
+                {
+                    "sellerId" : "marioapi"
+                }
+            ]
+
+        },
+
+        {
+            "id" : "witwit20",
+            "pw" : "Rnjsthdxor11!!",
+            "masterId" : "pncg3936",
+            "master_num" : 442880,
+            "buget" : 0,
+            "seller" : [
+                {
+                    "sellerId" : "richbeam1"
+                }
+            ]
+
+        },
+
+        {
+            "id" : "witwit20",
+            "pw" : "Rnjsthdxor11!!",
+            "masterId" : "kam486",
+            "master_num" : 349765,
+            "buget" : 0,
+            "seller" : [
+                {
+                    "sellerId" : "gmktag486"
+                },
+                {
+                    "sellerId" : "auction_ag486"
+                }
+            ]
+
+        },
+
+        {
+            "id" : "witwit20",
+            "pw" : "Rnjsthdxor11!!",
+            "masterId" : "borikids",
+            "master_num" : 2096,
+            "buget" : 200000,
+            "seller" : [
+                {
+                    "sellerId" : "halfcom"
+                },
+                {
+                    "sellerId" : "half1234"
+                },
+                {
+                    "sellerId" : "triadmin"
+                },
+                {
+                    "sellerId" : "borikids"
+                }
+            ]
+
+        },
+
+        {
+            "id" : "witwit21",
+            "pw" : "123qweasdZXC!",
+            "masterId" : "wizscm",
+            "master_num" : 556585,
+            "buget" : 0,
+            "seller" : [
+                {
+                    "sellerId" : "wizscm"
+                }
+            ]
+
+        },
+
+        {
+            "id" : "witwit22",
+            "pw" : "onest123!!",
+            "masterId" : "honcompany",
+            "master_num" : 345882,
+            "buget" : 0,
+            "seller" : [
+                {
+                    "sellerId" : "honcom2"
+                }
+            ]
+
+        },
+
+        {
+
+            "id" : "witwit11",
+            "pw" : "Zxc321zxc321!",
+            "masterId" : "moons2008",
+            "master_num" : 16162,
+            "buget" : 0,
+            "seller" : [
+                {
+                    "sellerId" : "moons2008"
+                }
+            ]
+        }
+    ]
+}
