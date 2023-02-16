@@ -1,6 +1,6 @@
 {
 
-    "SelectMarketer": "witwit19,witwit20,witwit21",
+    "SelectMarketer": "witwit19,witwit20,witwit21,witwit22",
     "witwit19" : {
         "id" : "witwit19",
         "pw" : "onest123!!",
@@ -631,6 +631,33 @@
                 }
               ]
         }
-    }
+    },
 
+    "witwit22" : {
+        "id" : "witwit22",
+        "pw" : "onest123!!",
+        "SelectMaster" : "locknlock1",
+        "locknlock1" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 39641,
+            "sellerList" : [
+                {
+                    "sellerCustNo": "122855271",
+                    "siteId": 2,
+                    "masterId": 39641,
+                    "sellerId": "locknlockm",
+                    "sellerName": "락앤락공식몰"
+                },
+                {
+                    "sellerCustNo": "locknlockm",
+                    "siteId": 1,
+                    "masterId": 39641,
+                    "sellerId": "locknlockm",
+                    "sellerName": "락앤락공식몰"
+                }
+            ]
+        }
+    }
 }
