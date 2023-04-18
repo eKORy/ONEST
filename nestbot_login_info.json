@@ -224,6 +224,79 @@
                     "sellerName": "가방pop"
                 }
             ]
+        },
+        
+        {
+
+            "id" : "witwit26",
+            "pw" : "Zxc321zxc321!",
+            "masterId" : "bt2988",
+            "master_num" : 338819,
+            "buget" : 0,
+            "seller" : [
+                
+                {
+                    "sellerCustNo": "132454180",
+                    "siteId": 2,
+                    "masterId": 338819,
+                    "sellerId": "bt2988",
+                    "sellerName": "법탑불교미술원"
+                },
+                {
+                    "sellerCustNo": "149938877",
+                    "siteId": 2,
+                    "masterId": 338819,
+                    "sellerId": "bt29888",
+                    "sellerName": "3GUARD"
+                },
+                {
+                    "sellerCustNo": "149938878",
+                    "siteId": 2,
+                    "masterId": 338819,
+                    "sellerId": "bt298888",
+                    "sellerName": "norimoa"
+                },
+                {
+                    "sellerCustNo": "bt2988",
+                    "siteId": 1,
+                    "masterId": 338819,
+                    "sellerId": "bt2988",
+                    "sellerName": "법탑불교미술원"
+                },
+                {
+                    "sellerCustNo": "bt298888",
+                    "siteId": 1,
+                    "masterId": 338819,
+                    "sellerId": "bt298888",
+                    "sellerName": "smileg99"
+                }
+                
+            ]
+        },
+
+        {
+
+            "id" : "witwit26",
+            "pw" : "Zxc321zxc321!",
+            "masterId" : "cherry2988",
+            "master_num" : 505340,
+            "buget" : 0,
+            "seller" : [
+                {
+                    "sellerCustNo": "151066165",
+                    "siteId": 2,
+                    "masterId": 505340,
+                    "sellerId": "cherry2988",
+                    "sellerName": "체리걸란제리셀렉샵"
+                },
+                {
+                    "sellerCustNo": "cherry2988",
+                    "siteId": 1,
+                    "masterId": 505340,
+                    "sellerId": "cherry2988",
+                    "sellerName": "체리걸란제리셀렉샵"
+                }
+            ]
         }
     ]
 }
