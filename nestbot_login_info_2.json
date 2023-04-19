@@ -1,143 +1,23 @@
 {
     "master" : [
         {
-
             "id" : "witwit19",
             "pw" : "onest123!!",
-            "masterId" : "g1300kcom",
-            "master_num" : 7820,
+            "masterId" : "specialistum",
+            "master_num" : 373056,
             "buget" : 0,
             "seller" : [
                 {
-                    "sellerCustNo": "122614790",
-                    "siteId": 2,
-                    "masterId": 7820,
-                    "sellerId": "gsmilage",
-                    "sellerName": "SMILAGE"
+                    "sellerId" : "hnsmall"
+                },
+                {   
+                    "sellerId" : "hnsmalltv"
                 },
                 {
-                    "sellerCustNo": "118951543",
-                    "siteId": 2,
-                    "masterId": 7820,
-                    "sellerId": "G1200M",
-                    "sellerName": "1200M"
-                },
-                {
-                    "sellerCustNo": "103033406",
-                    "siteId": 2,
-                    "masterId": 7820,
-                    "sellerId": "g1300kcom",
-                    "sellerName": "1300K"
-                },
-                {
-                    "sellerCustNo": "132445912",
-                    "siteId": 2,
-                    "masterId": 7820,
-                    "sellerId": "fashionpop",
-                    "sellerName": "패션 팝"
-                },
-                {
-                    "sellerCustNo": "143532599",
-                    "siteId": 2,
-                    "masterId": 7820,
-                    "sellerId": "9smilage",
-                    "sellerName": "NHNwetoo"
-                },
-                {
-                    "sellerCustNo": "1200mcom",
-                    "siteId": 1,
-                    "masterId": 7820,
-                    "sellerId": "1200mcom",
-                    "sellerName": "천이백엠1200M"
-                },
-                {
-                    "sellerCustNo": "1300kcom",
-                    "siteId": 1,
-                    "masterId": 7820,
-                    "sellerId": "1300kcom",
-                    "sellerName": "A1300K"
-                },
-                {
-                    "sellerCustNo": "gabangpop",
-                    "siteId": 1,
-                    "masterId": 7820,
-                    "sellerId": "gabangpop",
-                    "sellerName": "가방pop"
+                    "sellerId" : "hnstvc"
                 }
             ]
-        },
 
-        {
-
-            "id" : "witwit26",
-            "pw" : "Zxc321zxc321!",
-            "masterId" : "bt2988",
-            "master_num" : 338819,
-            "buget" : 0,
-            "seller" : [
-                
-                {
-                    "sellerCustNo": "132454180",
-                    "siteId": 2,
-                    "masterId": 338819,
-                    "sellerId": "bt2988",
-                    "sellerName": "법탑불교미술원"
-                },
-                {
-                    "sellerCustNo": "149938877",
-                    "siteId": 2,
-                    "masterId": 338819,
-                    "sellerId": "bt29888",
-                    "sellerName": "3GUARD"
-                },
-                {
-                    "sellerCustNo": "149938878",
-                    "siteId": 2,
-                    "masterId": 338819,
-                    "sellerId": "bt298888",
-                    "sellerName": "norimoa"
-                },
-                {
-                    "sellerCustNo": "bt2988",
-                    "siteId": 1,
-                    "masterId": 338819,
-                    "sellerId": "bt2988",
-                    "sellerName": "법탑불교미술원"
-                },
-                {
-                    "sellerCustNo": "bt298888",
-                    "siteId": 1,
-                    "masterId": 338819,
-                    "sellerId": "bt298888",
-                    "sellerName": "smileg99"
-                }
-                
-            ]
-        },
-
-        {
-
-            "id" : "witwit26",
-            "pw" : "Zxc321zxc321!",
-            "masterId" : "cherry2988",
-            "master_num" : 505340,
-            "buget" : 0,
-            "seller" : [
-                {
-                    "sellerCustNo": "151066165",
-                    "siteId": 2,
-                    "masterId": 505340,
-                    "sellerId": "cherry2988",
-                    "sellerName": "체리걸란제리셀렉샵"
-                },
-                {
-                    "sellerCustNo": "cherry2988",
-                    "siteId": 1,
-                    "masterId": 505340,
-                    "sellerId": "cherry2988",
-                    "sellerName": "체리걸란제리셀렉샵"
-                }
-            ]
         }
     ]
 }
