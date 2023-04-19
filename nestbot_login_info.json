@@ -297,6 +297,26 @@
                     "sellerName": "체리걸란제리셀렉샵"
                 }
             ]
+        },
+        
+        {
+            "id" : "witwit19",
+            "pw" : "onest123!!",
+            "masterId" : "specialistum",
+            "master_num" : 373056,
+            "buget" : 0,
+            "seller" : [
+                {
+                    "sellerId" : "hnsmall"
+                },
+                {   
+                    "sellerId" : "hnsmalltv"
+                },
+                {
+                    "sellerId" : "hnstvc"
+                }
+            ]
+
         }
     ]
 }
