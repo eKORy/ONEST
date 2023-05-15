@@ -1,16 +1,15 @@
 {
-
     "SelectMarketer": "witwit19,witwit20,witwit21,witwit22",
-    "witwit19" : {
-        "id" : "witwit19",
-        "pw" : "onest123!!",
-        "SelectMaster" : "lottei1,mario4321,specialistum,g1300kcom",
-        "lottei1" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 334615,
-            "sellerList" : [
+    "witwit19": {
+        "id": "witwit19",
+        "pw": "onest123!!",
+        "SelectMaster": "lottei1,mario4321,specialistum,g1300kcom",
+        "lottei1": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 334615,
+            "sellerList": [
                 {
                     "sellerCustNo": "132182741",
                     "siteId": 2,
@@ -110,15 +109,13 @@
                     "sellerName": "롯데TV홈쇼핑"
                 }
             ]
-            
         },
-
-        "mario4321" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 47820,
-            "sellerList" : [
+        "mario4321": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 47820,
+            "sellerList": [
                 {
                     "sellerCustNo": "122430410",
                     "siteId": 2,
@@ -156,156 +153,152 @@
                 }
             ]
         },
-
-        "specialistum" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 373056,
-            "sellerList" : [
+        "specialistum": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 373056,
+            "sellerList": [
                 {
-                  "sellerCustNo": "135395242",
-                  "siteId": 2,
-                  "masterId": 373056,
-                  "sellerId": "hnsmall",
-                  "sellerName": "홈앤쇼핑"
+                    "sellerCustNo": "135395242",
+                    "siteId": 2,
+                    "masterId": 373056,
+                    "sellerId": "hnsmall",
+                    "sellerName": "홈앤쇼핑"
                 },
                 {
-                  "sellerCustNo": "135413349",
-                  "siteId": 2,
-                  "masterId": 373056,
-                  "sellerId": "hnsmalltv",
-                  "sellerName": "홈앤 쇼핑"
+                    "sellerCustNo": "135413349",
+                    "siteId": 2,
+                    "masterId": 373056,
+                    "sellerId": "hnsmalltv",
+                    "sellerName": "홈앤 쇼핑"
                 },
                 {
-                  "sellerCustNo": "136732806",
-                  "siteId": 2,
-                  "masterId": 373056,
-                  "sellerId": "hnstest",
-                  "sellerName": "홈앤쇼핑 테스트"
+                    "sellerCustNo": "136732806",
+                    "siteId": 2,
+                    "masterId": 373056,
+                    "sellerId": "hnstest",
+                    "sellerName": "홈앤쇼핑 테스트"
                 },
                 {
-                  "sellerCustNo": "149407396",
-                  "siteId": 2,
-                  "masterId": 373056,
-                  "sellerId": "hnsmec",
-                  "sellerName": "홈앤쇼핑1"
+                    "sellerCustNo": "149407396",
+                    "siteId": 2,
+                    "masterId": 373056,
+                    "sellerId": "hnsmec",
+                    "sellerName": "홈앤쇼핑1"
                 },
                 {
-                  "sellerCustNo": "149407397",
-                  "siteId": 2,
-                  "masterId": 373056,
-                  "sellerId": "hnstest0",
-                  "sellerName": "홈앤쇼핑2"
+                    "sellerCustNo": "149407397",
+                    "siteId": 2,
+                    "masterId": 373056,
+                    "sellerId": "hnstest0",
+                    "sellerName": "홈앤쇼핑2"
                 },
                 {
-                  "sellerCustNo": "149408074",
-                  "siteId": 2,
-                  "masterId": 373056,
-                  "sellerId": "hnstvc",
-                  "sellerName": "홈앤쇼핑3"
+                    "sellerCustNo": "149408074",
+                    "siteId": 2,
+                    "masterId": 373056,
+                    "sellerId": "hnstvc",
+                    "sellerName": "홈앤쇼핑3"
                 },
                 {
-                  "sellerCustNo": "hnsmall",
-                  "siteId": 1,
-                  "masterId": 373056,
-                  "sellerId": "hnsmall",
-                  "sellerName": "(주)홈앤쇼핑"
+                    "sellerCustNo": "hnsmall",
+                    "siteId": 1,
+                    "masterId": 373056,
+                    "sellerId": "hnsmall",
+                    "sellerName": "(주)홈앤쇼핑"
                 },
                 {
-                  "sellerCustNo": "hnsmalltv",
-                  "siteId": 1,
-                  "masterId": 373056,
-                  "sellerId": "hnsmalltv",
-                  "sellerName": "홈앤쇼핑TV"
+                    "sellerCustNo": "hnsmalltv",
+                    "siteId": 1,
+                    "masterId": 373056,
+                    "sellerId": "hnsmalltv",
+                    "sellerName": "홈앤쇼핑TV"
                 },
                 {
-                  "sellerCustNo": "hnstest",
-                  "siteId": 1,
-                  "masterId": 373056,
-                  "sellerId": "hnstest",
-                  "sellerName": "홈앤쇼핑테스트"
+                    "sellerCustNo": "hnstest",
+                    "siteId": 1,
+                    "masterId": 373056,
+                    "sellerId": "hnstest",
+                    "sellerName": "홈앤쇼핑테스트"
                 }
             ]
         },
-
-        "g1300kcom" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 7820,
-            "sellerList" : [
+        "g1300kcom": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 7820,
+            "sellerList": [
                 {
-                  "sellerCustNo": "122614790",
-                  "siteId": 2,
-                  "masterId": 7820,
-                  "sellerId": "gsmilage",
-                  "sellerName": "SMILAGE"
+                    "sellerCustNo": "122614790",
+                    "siteId": 2,
+                    "masterId": 7820,
+                    "sellerId": "gsmilage",
+                    "sellerName": "SMILAGE"
                 },
                 {
-                  "sellerCustNo": "118951543",
-                  "siteId": 2,
-                  "masterId": 7820,
-                  "sellerId": "G1200M",
-                  "sellerName": "1200M"
+                    "sellerCustNo": "118951543",
+                    "siteId": 2,
+                    "masterId": 7820,
+                    "sellerId": "G1200M",
+                    "sellerName": "1200M"
                 },
                 {
-                  "sellerCustNo": "103033406",
-                  "siteId": 2,
-                  "masterId": 7820,
-                  "sellerId": "g1300kcom",
-                  "sellerName": "1300K"
+                    "sellerCustNo": "103033406",
+                    "siteId": 2,
+                    "masterId": 7820,
+                    "sellerId": "g1300kcom",
+                    "sellerName": "1300K"
                 },
                 {
-                  "sellerCustNo": "132445912",
-                  "siteId": 2,
-                  "masterId": 7820,
-                  "sellerId": "fashionpop",
-                  "sellerName": "패션 팝"
+                    "sellerCustNo": "132445912",
+                    "siteId": 2,
+                    "masterId": 7820,
+                    "sellerId": "fashionpop",
+                    "sellerName": "패션 팝"
                 },
                 {
-                  "sellerCustNo": "143532599",
-                  "siteId": 2,
-                  "masterId": 7820,
-                  "sellerId": "9smilage",
-                  "sellerName": "NHNwetoo"
+                    "sellerCustNo": "143532599",
+                    "siteId": 2,
+                    "masterId": 7820,
+                    "sellerId": "9smilage",
+                    "sellerName": "NHNwetoo"
                 },
                 {
-                  "sellerCustNo": "1200mcom",
-                  "siteId": 1,
-                  "masterId": 7820,
-                  "sellerId": "1200mcom",
-                  "sellerName": "천이백엠1200M"
+                    "sellerCustNo": "1200mcom",
+                    "siteId": 1,
+                    "masterId": 7820,
+                    "sellerId": "1200mcom",
+                    "sellerName": "천이백엠1200M"
                 },
                 {
-                  "sellerCustNo": "1300kcom",
-                  "siteId": 1,
-                  "masterId": 7820,
-                  "sellerId": "1300kcom",
-                  "sellerName": "A1300K"
+                    "sellerCustNo": "1300kcom",
+                    "siteId": 1,
+                    "masterId": 7820,
+                    "sellerId": "1300kcom",
+                    "sellerName": "A1300K"
                 },
                 {
-                  "sellerCustNo": "gabangpop",
-                  "siteId": 1,
-                  "masterId": 7820,
-                  "sellerId": "gabangpop",
-                  "sellerName": "가방pop"
+                    "sellerCustNo": "gabangpop",
+                    "siteId": 1,
+                    "masterId": 7820,
+                    "sellerId": "gabangpop",
+                    "sellerName": "가방pop"
                 }
             ]
         }
-            
     },
-
-    "witwit20" : {
-        "id" : "witwit20",
-        "pw" : "Rnjsthdxor11!!",
-        "SelectMaster" : "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech",
-        "kam486" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 349765,
-            "sellerList" : [
+    "witwit20": {
+        "id": "witwit20",
+        "pw": "Rnjsthdxor11!!",
+        "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech",
+        "kam486": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 349765,
+            "sellerList": [
                 {
                     "sellerCustNo": "133192431",
                     "siteId": 2,
@@ -322,12 +315,12 @@
                 }
             ]
         },
-        "pncg3936" :{
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 442880,
-            "sellerList" : [
+        "pncg3936": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 442880,
+            "sellerList": [
                 {
                     "sellerCustNo": "123338010",
                     "siteId": 2,
@@ -351,12 +344,12 @@
                 }
             ]
         },
-        "borikids" :{
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 2096,
-            "sellerList" : [
+        "borikids": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 2096,
+            "sellerList": [
                 {
                     "sellerCustNo": "118655286",
                     "siteId": 2,
@@ -478,12 +471,12 @@
                 }
             ]
         },
-        "yhsangsa03" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 402866,
-            "sellerList" : [
+        "yhsangsa03": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 402866,
+            "sellerList": [
                 {
                     "sellerCustNo": "141692510",
                     "siteId": 2,
@@ -514,12 +507,12 @@
                 }
             ]
         },
-        "ozkiz" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 192847,
-            "sellerList" : [
+        "ozkiz": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 192847,
+            "sellerList": [
                 {
                     "sellerCustNo": "124511107",
                     "siteId": 2,
@@ -534,15 +527,14 @@
                     "sellerId": "ozkizcom",
                     "sellerName": "오즈키즈닷컴"
                 }
-                
             ]
         },
-        "dooricare" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 523851,
-            "sellerList" : [
+        "dooricare": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 523851,
+            "sellerList": [
                 {
                     "sellerCustNo": "114856247",
                     "siteId": 2,
@@ -556,130 +548,128 @@
                     "masterId": 523851,
                     "sellerId": "doorishop",
                     "sellerName": "doorishop"
-                }                
+                }
             ]
         },
-        "implextech" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 385670,
-            "sellerList" : [
-              {
-                "sellerCustNo": "140304215",
-                "siteId": 2,
-                "masterId": 385670,
-                "sellerId": "implextech",
-                "sellerName": "인플렉스테크"
-              },
-              {
-                "sellerCustNo": "implextech",
-                "siteId": 1,
-                "masterId": 385670,
-                "sellerId": "implextech",
-                "sellerName": "임플렉스테크"
-              }
-            ]
-        },
-    
-    
-    "witwit21" : {
-        "id" : "witwit21",
-        "pw" : "123qweasdZXC!",
-        "SelectMaster" : "glcom3445,inksystem,kerasal99",
-        "glcom3445" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 7774,
-            "sellerList" : [
+        "implextech": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 385670,
+            "sellerList": [
                 {
-                    "sellerCustNo": "120162473",
+                    "sellerCustNo": "140304215",
                     "siteId": 2,
-                    "masterId": 7774,
-                    "sellerId": "glcomm1",
-                    "sellerName": "지엘커뮤니케이션즈"
+                    "masterId": 385670,
+                    "sellerId": "implextech",
+                    "sellerName": "인플렉스테크"
                 },
                 {
-                    "sellerCustNo": "glcom3445",
+                    "sellerCustNo": "implextech",
                     "siteId": 1,
-                    "masterId": 7774,
-                    "sellerId": "glcom3445",
-                    "sellerName": "gl"
+                    "masterId": 385670,
+                    "sellerId": "implextech",
+                    "sellerName": "임플렉스테크"
                 }
             ]
         },
-        "inksystem" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 108350,
-            "sellerList" : [
-                {
-                    "sellerCustNo": "122962249",
-                    "siteId": 2,
-                    "masterId": 108350,
-                    "sellerId": "inksystem",
-                    "sellerName": "주식회사잉스"
-                },
-                {
-                    "sellerCustNo": "inksystem",
-                    "siteId": 1,
-                    "masterId": 108350,
-                    "sellerId": "inksystem",
-                    "sellerName": "주식회사잉스"
-                }
-            ]
+        "witwit21": {
+            "id": "witwit21",
+            "pw": "123qweasdZXC!",
+            "SelectMaster": "glcom3445,inksystem,kerasal99",
+            "glcom3445": {
+                "Buget": 0,
+                "GmktBuget": 0,
+                "IacBuget": 0,
+                "MasterId": 7774,
+                "sellerList": [
+                    {
+                        "sellerCustNo": "120162473",
+                        "siteId": 2,
+                        "masterId": 7774,
+                        "sellerId": "glcomm1",
+                        "sellerName": "지엘커뮤니케이션즈"
+                    },
+                    {
+                        "sellerCustNo": "glcom3445",
+                        "siteId": 1,
+                        "masterId": 7774,
+                        "sellerId": "glcom3445",
+                        "sellerName": "gl"
+                    }
+                ]
+            },
+            "inksystem": {
+                "Buget": 0,
+                "GmktBuget": 0,
+                "IacBuget": 0,
+                "MasterId": 108350,
+                "sellerList": [
+                    {
+                        "sellerCustNo": "122962249",
+                        "siteId": 2,
+                        "masterId": 108350,
+                        "sellerId": "inksystem",
+                        "sellerName": "주식회사잉스"
+                    },
+                    {
+                        "sellerCustNo": "inksystem",
+                        "siteId": 1,
+                        "masterId": 108350,
+                        "sellerId": "inksystem",
+                        "sellerName": "주식회사잉스"
+                    }
+                ]
+            },
+            "kerasal99": {
+                "Buget": 0,
+                "GmktBuget": 0,
+                "IacBuget": 0,
+                "MasterId": 436668,
+                "sellerList": [
+                    {
+                        "sellerCustNo": "144284108",
+                        "siteId": 2,
+                        "masterId": 436668,
+                        "sellerId": "kerasal99",
+                        "sellerName": "케라셀"
+                    },
+                    {
+                        "sellerCustNo": "kerasal99",
+                        "siteId": 1,
+                        "masterId": 436668,
+                        "sellerId": "kerasal99",
+                        "sellerName": "케라셀"
+                    }
+                ]
+            }
         },
-        "kerasal99" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 436668,
-            "sellerList" : [
-                {
-                  "sellerCustNo": "144284108",
-                  "siteId": 2,
-                  "masterId": 436668,
-                  "sellerId": "kerasal99",
-                  "sellerName": "케라셀"
-                },
-                {
-                  "sellerCustNo": "kerasal99",
-                  "siteId": 1,
-                  "masterId": 436668,
-                  "sellerId": "kerasal99",
-                  "sellerName": "케라셀"
-                }
-              ]
-        }
-    },
-
-    "witwit22" : {
-        "id" : "witwit22",
-        "pw" : "onest123!!",
-        "SelectMaster" : "locknlock1",
-        "locknlock1" : {
-            "Buget" : 0,
-            "GmktBuget" : 0,
-            "IacBuget" : 0,
-            "MasterId" : 39641,
-            "sellerList" : [
-                {
-                    "sellerCustNo": "122855271",
-                    "siteId": 2,
-                    "masterId": 39641,
-                    "sellerId": "locknlockm",
-                    "sellerName": "락앤락공식몰"
-                },
-                {
-                    "sellerCustNo": "locknlockm",
-                    "siteId": 1,
-                    "masterId": 39641,
-                    "sellerId": "locknlockm",
-                    "sellerName": "락앤락공식몰"
-                }
-            ]
+        "witwit22": {
+            "id": "witwit22",
+            "pw": "onest123!!",
+            "SelectMaster": "locknlock1",
+            "locknlock1": {
+                "Buget": 0,
+                "GmktBuget": 0,
+                "IacBuget": 0,
+                "MasterId": 39641,
+                "sellerList": [
+                    {
+                        "sellerCustNo": "122855271",
+                        "siteId": 2,
+                        "masterId": 39641,
+                        "sellerId": "locknlockm",
+                        "sellerName": "락앤락공식몰"
+                    },
+                    {
+                        "sellerCustNo": "locknlockm",
+                        "siteId": 1,
+                        "masterId": 39641,
+                        "sellerId": "locknlockm",
+                        "sellerName": "락앤락공식몰"
+                    }
+                ]
+            }
         }
     }
 }
