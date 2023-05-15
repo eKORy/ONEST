@@ -299,7 +299,7 @@
     "witwit20" : {
         "id" : "witwit20",
         "pw" : "Rnjsthdxor11!!",
-        "SelectMaster" : "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare",
+        "SelectMaster" : "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech",
         "kam486" : {
             "Buget" : 0,
             "GmktBuget" : 0,
@@ -561,6 +561,31 @@
         }
 
     },
+    
+    "implextech" : {
+            "Buget" : 0,
+            "GmktBuget" : 0,
+            "IacBuget" : 0,
+            "MasterId" : 385670,
+            "sellerList" : [
+              {
+                "sellerCustNo": "140304215",
+                "siteId": 2,
+                "masterId": 385670,
+                "sellerId": "implextech",
+                "sellerName": "인플렉스테크"
+              },
+              {
+                "sellerCustNo": "implextech",
+                "siteId": 1,
+                "masterId": 385670,
+                "sellerId": "implextech",
+                "sellerName": "임플렉스테크"
+              }
+            ]
+        },
+    
+    
     "witwit21" : {
         "id" : "witwit21",
         "pw" : "123qweasdZXC!",
