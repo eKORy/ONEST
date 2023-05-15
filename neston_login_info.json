@@ -558,11 +558,8 @@
                     "sellerName": "doorishop"
                 }                
             ]
-        }
-
-    },
-    
-    "implextech" : {
+        },
+        "implextech" : {
             "Buget" : 0,
             "GmktBuget" : 0,
             "IacBuget" : 0,
