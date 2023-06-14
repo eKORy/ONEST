@@ -8,13 +8,7 @@
             "buget" : 0,
             "seller" : [
                 {
-                    "sellerId" : "hnsmall"
-                },
-                {   
-                    "sellerId" : "hnsmalltv"
-                },
-                {
-                    "sellerId" : "hnstvc"
+                    "sellerId" : "hnsmec"
                 }
             ]
 
