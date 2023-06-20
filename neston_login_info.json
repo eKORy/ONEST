@@ -292,7 +292,7 @@
     "witwit20": {
         "id": "witwit20",
         "pw": "Rnjsthdxor11!!",
-        "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech",
+        "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech,winand",
         "kam486": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -571,6 +571,28 @@
                     "sellerId": "implextech",
                     "sellerName": "임플렉스테크"
                 }
+            ]
+        },
+        "winand": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 214733,
+            "sellerList": [
+              {
+                "sellerCustNo": "125129743",
+                "siteId": 2,
+                "masterId": 214733,
+                "sellerId": "winand1",
+                "sellerName": "참행복한vip"
+              },
+              {
+                "sellerCustNo": "winand2",
+                "siteId": 1,
+                "masterId": 214733,
+                "sellerId": "winand2",
+                "sellerName": "참좋은vip샵"
+              }
             ]
         }
     },
