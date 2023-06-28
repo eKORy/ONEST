@@ -1,14 +1,23 @@
 {
     "master" : [
         {
-            "id" : "witwit19",
-            "pw" : "onest123!!",
-            "masterId" : "specialistum",
-            "master_num" : 373056,
-            "buget" : 0,
+            "id" : "witwit20",
+            "pw" : "Rnjsthdxor11!!",
+            "masterId" : "borikids",
+            "master_num" : 2096,
+            "buget" : 200000,
             "seller" : [
                 {
-                    "sellerId" : "hnsmec"
+                    "sellerId" : "halfcom"
+                },
+                {
+                    "sellerId" : "half1234"
+                },
+                {
+                    "sellerId" : "triadmin"
+                },
+                {
+                    "sellerId" : "borikids"
                 }
             ]
 
