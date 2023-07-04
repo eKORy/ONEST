@@ -3,7 +3,7 @@
     "witwit19": {
         "id": "witwit19",
         "pw": "onest123!!",
-        "SelectMaster": "lottei1,mario4321,specialistum,g1300kcom",
+        "SelectMaster": "lottei1,mario4321,specialistum,g1300kcom,dcollect",
         "lottei1": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -222,6 +222,44 @@
                     "sellerId": "hnstest",
                     "sellerName": "홈앤쇼핑테스트"
                 }
+            ]
+        },
+        "dcollect": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 272048,
+            "sellerList": [
+                
+                {
+                    "sellerCustNo": "127822152",
+                    "siteId": 2,
+                    "masterId": 272048,
+                    "sellerId": "dcollect",
+                    "sellerName": "SWEETSOUP"
+                },
+                {
+                    "sellerCustNo": "133863291",
+                    "siteId": 2,
+                    "masterId": 272048,
+                    "sellerId": "dkadhoc",
+                    "sellerName": "ADHOC"
+                },
+                {
+                    "sellerCustNo": "dcollect",
+                    "siteId": 1,
+                    "masterId": 272048,
+                    "sellerId": "dcollect",
+                    "sellerName": "(주)동광인터내셔날"
+                },
+                {
+                    "sellerCustNo": "dkadhoc",
+                    "siteId": 1,
+                    "masterId": 272048,
+                    "sellerId": "dkadhoc",
+                    "sellerName": "애드호크"
+                }
+
             ]
         },
         "g1300kcom": {
