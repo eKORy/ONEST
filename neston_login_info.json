@@ -3,7 +3,7 @@
     "witwit19": {
         "id": "witwit19",
         "pw": "onest123!!",
-        "SelectMaster": "lottei1,mario4321,specialistum,g1300kcom,dcollect",
+        "SelectMaster": "lottei1,mario4321,specialistum,g1300kcom,dcollect,hyungji033,hyungjicom",
         "lottei1": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -260,6 +260,52 @@
                     "sellerName": "애드호크"
                 }
 
+            ]
+        },
+
+        "hyungji033": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 363122,
+            "sellerList": [
+                {
+                  "sellerCustNo": "119929717",
+                  "siteId": 2,
+                  "masterId": 363122,
+                  "sellerId": "hyungji033",
+                  "sellerName": "형지리테일온라인몰"
+                },
+                {
+                  "sellerCustNo": "hyungji033",
+                  "siteId": 1,
+                  "masterId": 363122,
+                  "sellerId": "hyungji033",
+                  "sellerName": "hjretail"
+                }
+            ]
+        },
+
+        "hyungjicom": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 300178,
+            "sellerList": [
+                {
+                  "sellerCustNo": "119442928",
+                  "siteId": 2,
+                  "masterId": 300178,
+                  "sellerId": "hyungjicom",
+                  "sellerName": "패션그룹형지"
+                },
+                {
+                  "sellerCustNo": "hyungjimall",
+                  "siteId": 1,
+                  "masterId": 300178,
+                  "sellerId": "hyungjimall",
+                  "sellerName": "패션그룹형지"
+                }
             ]
         },
         "g1300kcom": {
