@@ -679,7 +679,7 @@
     "witwit21": {
         "id": "witwit21",
         "pw": "123qweasdZXC!",
-        "SelectMaster": "glcom3445,inksystem,kerasal99,bryan4569",
+        "SelectMaster": "glcom3445,inksystem,kerasal99,bryan4569,hkb86n",
         "glcom3445": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -765,6 +765,35 @@
                     "masterId": 41832,
                     "sellerId": "bryan4569",
                     "sellerName": "consac"
+                }
+            ]
+        },
+        "hkb86n": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 10026,
+            "sellerList": [
+                {
+                    "sellerCustNo": "120438668",
+                    "siteId": 2,
+                    "masterId": 10026,
+                    "sellerId": "bryc9993",
+                    "sellerName": "바른약초"
+                },
+                {
+                    "sellerCustNo": "123103510",
+                    "siteId": 2,
+                    "masterId": 10026,
+                    "sellerId": "bryc9994",
+                    "sellerName": "(주)바른에프엔비"
+                },
+                {
+                    "sellerCustNo": "bryc9993",
+                    "siteId": 1,
+                    "masterId": 10026,
+                    "sellerId": "bryc9993",
+                    "sellerName": "바른약초v"
                 }
             ]
         }
