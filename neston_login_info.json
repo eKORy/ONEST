@@ -372,29 +372,7 @@
     "witwit20": {
         "id": "witwit20",
         "pw": "Rnjsthdxor11!!",
-        "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech,winand",
-        "kam486": {
-            "Buget": 0,
-            "GmktBuget": 0,
-            "IacBuget": 0,
-            "MasterId": 349765,
-            "sellerList": [
-                {
-                    "sellerCustNo": "133192431",
-                    "siteId": 2,
-                    "masterId": 349765,
-                    "sellerId": "gmktag486",
-                    "sellerName": "gmktag486"
-                },
-                {
-                    "sellerCustNo": "auction_ag486",
-                    "siteId": 1,
-                    "masterId": 349765,
-                    "sellerId": "auction_ag486",
-                    "sellerName": "auction_ag486"
-                }
-            ]
-        },
+        "SelectMaster": "pncg3936,borikids,ozkiz,dooricare,implextech,winand,ktmmobile",
         "pncg3936": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -551,42 +529,6 @@
                 }
             ]
         },
-        "yhsangsa03": {
-            "Buget": 0,
-            "GmktBuget": 0,
-            "IacBuget": 0,
-            "MasterId": 402866,
-            "sellerList": [
-                {
-                    "sellerCustNo": "141692510",
-                    "siteId": 2,
-                    "masterId": 402866,
-                    "sellerId": "yhsangsa7",
-                    "sellerName": "mars_choco"
-                },
-                {
-                    "sellerCustNo": "141750795",
-                    "siteId": 2,
-                    "masterId": 402866,
-                    "sellerId": "yhsangsa07",
-                    "sellerName": "mars_chocolate"
-                },
-                {
-                    "sellerCustNo": "yhsangsa7",
-                    "siteId": 1,
-                    "masterId": 402866,
-                    "sellerId": "yhsangsa7",
-                    "sellerName": "한국마즈공식대리점점"
-                },
-                {
-                    "sellerCustNo": "yhsangsa07",
-                    "siteId": 1,
-                    "masterId": 402866,
-                    "sellerId": "yhsangsa07",
-                    "sellerName": "한국마즈"
-                }
-            ]
-        },
         "ozkiz": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -608,6 +550,28 @@
                     "sellerName": "오즈키즈닷컴"
                 }
             ]
+        },
+        "ktmmobile": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 276568,
+            "sellerList": [
+                {
+                  "sellerCustNo": "128181637",
+                  "siteId": 2,
+                  "masterId": 276568,
+                  "sellerId": "ktmmobile",
+                  "sellerName": "ktmmobile"
+                },
+                {
+                  "sellerCustNo": "ktmmobile",
+                  "siteId": 1,
+                  "masterId": 276568,
+                  "sellerId": "ktmmobile",
+                  "sellerName": "ktmmobile"
+                }
+              ]
         },
         "dooricare": {
             "Buget": 0,
