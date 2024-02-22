@@ -679,7 +679,7 @@
     "witwit21": {
         "id": "witwit21",
         "pw": "123qweasdZXC!",
-        "SelectMaster": "glcom3445,inksystem,madefund01,madefund011,bryan4569",
+        "SelectMaster": "glcom3445,inksystem,bryan4569",
         "glcom3445": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -767,66 +767,7 @@
                     "sellerName": "consac"
                 }
             ]
-        },
-        "hkb86n": {
-            "Buget": 0,
-            "GmktBuget": 0,
-            "IacBuget": 0,
-            "MasterId": 10026,
-            "sellerList": [
-                {
-                    "sellerCustNo": "120438668",
-                    "siteId": 2,
-                    "masterId": 10026,
-                    "sellerId": "bryc9993",
-                    "sellerName": "바른약초"
-                },
-                {
-                    "sellerCustNo": "123103510",
-                    "siteId": 2,
-                    "masterId": 10026,
-                    "sellerId": "bryc9994",
-                    "sellerName": "(주)바른에프엔비"
-                },
-                {
-                    "sellerCustNo": "bryc9993",
-                    "siteId": 1,
-                    "masterId": 10026,
-                    "sellerId": "bryc9993",
-                    "sellerName": "바른약초v"
-                }
-            ]
         }
-    },
-    "madefund01": {
-        "Buget": 0,
-        "GmktBuget": 0,
-        "IacBuget": 0,
-        "MasterId": 551807,
-        "sellerList": [
-            {
-              "sellerCustNo": "153833155",
-              "siteId": 2,
-              "masterId": 551807,
-              "sellerId": "madefund01",
-              "sellerName": "마켓앤코"
-            }
-        ]
-    },
-    "madefund011": {
-        "Buget": 0,
-        "GmktBuget": 0,
-        "IacBuget": 0,
-        "MasterId": 537547,
-        "sellerList": [
-            {
-              "sellerCustNo": "madefund01",
-              "siteId": 1,
-              "masterId": 537547,
-              "sellerId": "madefund01",
-              "sellerName": "마켓앤코"
-            }
-        ]
     },
     "witwit22": {
         "id": "witwit22",
