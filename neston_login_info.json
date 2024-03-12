@@ -679,7 +679,7 @@
     "witwit21": {
         "id": "witwit21",
         "pw": "123qweasdZXC!",
-        "SelectMaster": "glcom3445,inksystem,bryan4569",
+        "SelectMaster": "glcom3445,inksystem",
         "glcom3445": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -743,28 +743,6 @@
                     "masterId": 436668,
                     "sellerId": "kerasal99",
                     "sellerName": "케라셀"
-                }
-            ]
-        },
-        "bryan4569": {
-            "Buget": 0,
-            "GmktBuget": 0,
-            "IacBuget": 0,
-            "MasterId": 41832,
-            "sellerList": [
-                {
-                    "sellerCustNo": "122571413",
-                    "siteId": 2,
-                    "masterId": 41832,
-                    "sellerId": "consac",
-                    "sellerName": "빅트리"
-                },
-                {
-                    "sellerCustNo": "bryan4569",
-                    "siteId": 1,
-                    "masterId": 41832,
-                    "sellerId": "bryan4569",
-                    "sellerName": "consac"
                 }
             ]
         }
