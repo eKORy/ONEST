@@ -701,7 +701,7 @@
     "witwit21": {
         "id": "witwit21",
         "pw": "123qweasdZXC!",
-        "SelectMaster": "glcom3445,inksystem",
+        "SelectMaster": "glcom3445,inksystem,boostlab",
         "glcom3445": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -743,6 +743,35 @@
                     "masterId": 108350,
                     "sellerId": "inksystem",
                     "sellerName": "주식회사잉스"
+                }
+            ]
+        },
+        "boostlab": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 410752,
+            "sellerList": [
+                {
+                  "sellerCustNo": "142468018",
+                  "siteId": 2,
+                  "masterId": 410752,
+                  "sellerId": "boostlab",
+                  "sellerName": "ONZO"
+                },
+                {
+                  "sellerCustNo": "156803336",
+                  "siteId": 2,
+                  "masterId": 410752,
+                  "sellerId": "boostlab01",
+                  "sellerName": "부스트랩_뷰티"
+                },
+                {
+                  "sellerCustNo": "boostlab",
+                  "siteId": 1,
+                  "masterId": 410752,
+                  "sellerId": "boostlab",
+                  "sellerName": "온조(ONZO)"
                 }
             ]
         },
