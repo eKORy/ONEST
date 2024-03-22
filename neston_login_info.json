@@ -372,7 +372,7 @@
     "witwit20": {
         "id": "witwit20",
         "pw": "Rnjsthdxor11!!",
-        "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech,winand",
+        "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech,winand,ktmmobile",
         "kam486": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -672,6 +672,28 @@
                     "masterId": 214733,
                     "sellerId": "winand2",
                     "sellerName": "참좋은vip샵"
+                }
+            ]
+        },
+        "ktmmobile": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 276568,
+            "sellerList": [
+                {
+                  "sellerCustNo": "128181637",
+                  "siteId": 2,
+                  "masterId": 276568,
+                  "sellerId": "ktmmobile",
+                  "sellerName": "ktmmobile"
+                },
+                {
+                  "sellerCustNo": "ktmmobile",
+                  "siteId": 1,
+                  "masterId": 276568,
+                  "sellerId": "ktmmobile",
+                  "sellerName": "ktmmobile"
                 }
             ]
         }
