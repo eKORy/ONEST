@@ -701,7 +701,7 @@
     "witwit21": {
         "id": "witwit21",
         "pw": "123qweasdZXC!",
-        "SelectMaster": "glcom3445,inksystem,boostlab",
+        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1",
         "glcom3445": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -743,6 +743,28 @@
                     "masterId": 108350,
                     "sellerId": "inksystem",
                     "sellerName": "주식회사잉스"
+                }
+            ]
+        },
+        "locknlock1": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 39641,
+            "sellerList": [
+                {
+                    "sellerCustNo": "122855271",
+                    "siteId": 2,
+                    "masterId": 39641,
+                    "sellerId": "locknlockm",
+                    "sellerName": "락앤락공식몰"
+                },
+                {
+                    "sellerCustNo": "locknlockm",
+                    "siteId": 1,
+                    "masterId": 39641,
+                    "sellerId": "locknlockm",
+                    "sellerName": "락앤락공식몰"
                 }
             ]
         },
@@ -828,7 +850,7 @@
     "witwit26": {
         "id": "witwit26",
         "pw": "Zxc321zxc321!",
-        "SelectMaster": "locknlock1,sheetnara,worldsheet",
+        "SelectMaster": "sheetnara,worldsheet",
         "locknlock1": {
             "Buget": 0,
             "GmktBuget": 0,
