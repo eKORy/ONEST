@@ -818,6 +818,30 @@
                     "sellerName": "케라셀"
                 }
             ]
+        },
+        "thesaeum": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 608981,
+            "sellerList": [
+                {
+                    "sellerCustNo": "156865711",
+                    "siteId": 2,
+                    "masterId": 608981,
+                    "sellerId": "thesaeum",
+                    "sellerName": "아더오더",
+                    "sellerBuget" : 0
+                },
+                {
+                    "sellerCustNo": "thesaeum",
+                    "siteId": 1,
+                    "masterId": 608981,
+                    "sellerId": "thesaeum",
+                    "sellerName": "아더오더",
+                    "sellerBuget" : 0
+                }
+            ]
         }
     },
     "witwit22": {
