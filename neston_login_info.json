@@ -701,7 +701,43 @@
     "witwit21": {
         "id": "witwit21",
         "pw": "123qweasdZXC!",
-        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1,alco2001",
+        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1,alco2001,worldsheet",
+        "worldsheet": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 24986,
+            "sellerList": [
+                {
+                    "sellerCustNo": "111567641",
+                    "siteId": 2,
+                    "masterId": 24986,
+                    "sellerId": "worldsheet",
+                    "sellerName": "월드시트"
+                },
+                {
+                    "sellerCustNo": "116111903",
+                    "siteId": 2,
+                    "masterId": 24986,
+                    "sellerId": "wdsheet",
+                    "sellerName": "둥지꾸미기"
+                },
+                {
+                    "sellerCustNo": "wdsheet",
+                    "siteId": 1,
+                    "masterId": 24986,
+                    "sellerId": "wdsheet",
+                    "sellerName": "둥지꾸미기"
+                },
+                {
+                    "sellerCustNo": "worldsheet",
+                    "siteId": 1,
+                    "masterId": 24986,
+                    "sellerId": "worldsheet",
+                    "sellerName": "월드시트"
+                }
+            ]
+        },
         "glcom3445": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -931,42 +967,6 @@
                     "masterId": 35392,
                     "sellerId": "incomshop",
                     "sellerName": "시트나라"
-                }
-            ]
-        },
-        "worldsheet": {
-            "Buget": 0,
-            "GmktBuget": 0,
-            "IacBuget": 0,
-            "MasterId": 24986,
-            "sellerList": [
-                {
-                    "sellerCustNo": "111567641",
-                    "siteId": 2,
-                    "masterId": 24986,
-                    "sellerId": "worldsheet",
-                    "sellerName": "월드시트"
-                },
-                {
-                    "sellerCustNo": "116111903",
-                    "siteId": 2,
-                    "masterId": 24986,
-                    "sellerId": "wdsheet",
-                    "sellerName": "둥지꾸미기"
-                },
-                {
-                    "sellerCustNo": "wdsheet",
-                    "siteId": 1,
-                    "masterId": 24986,
-                    "sellerId": "wdsheet",
-                    "sellerName": "둥지꾸미기"
-                },
-                {
-                    "sellerCustNo": "worldsheet",
-                    "siteId": 1,
-                    "masterId": 24986,
-                    "sellerId": "worldsheet",
-                    "sellerName": "월드시트"
                 }
             ]
         }
