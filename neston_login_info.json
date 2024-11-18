@@ -15,98 +15,113 @@
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottei1",
-                    "sellerName": "롯데홈쇼핑입니다"
+                    "sellerName": "롯데홈쇼핑입니다",
+                    "GroupName" : "아이몰1"
                 },
                 {
                     "sellerCustNo": "132201438",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottetv1",
-                    "sellerName": "롯데 홈쇼핑"
+                    "sellerName": "롯데 홈쇼핑",
+                    "GroupName" : "홈쇼핑1"
+                    
                 },
                 {
                     "sellerCustNo": "132201426",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottedep1",
-                    "sellerName": "롯데홈쇼핑롯데백화점"
+                    "sellerName": "롯데홈쇼핑롯데백화점",
+                    "GroupName" : "백화점1"
                 },
                 {
                     "sellerCustNo": "153420482",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottedep",
-                    "sellerName": "롯데 백화점"
+                    "sellerName": "롯데 백화점",
+                    "GroupName" : "백화점2"
                 },
                 {
                     "sellerCustNo": "153444153",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottei2",
-                    "sellerName": "롯데 아이몰"
+                    "sellerName": "롯데 아이몰",
+                    "GroupName" : "아이몰2"
                 },
                 {
                     "sellerCustNo": "153420481",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lotteotv",
-                    "sellerName": "롯데 원티비"
+                    "sellerName": "롯데 원티비",
+                    "GroupName" : "원티비"
                 },
                 {
                     "sellerCustNo": "153420480",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottetv",
-                    "sellerName": "롯데  홈쇼핑"
+                    "sellerName": "롯데  홈쇼핑",
+                    "GroupName" : "홈쇼핑2"
                 },
                 {
                     "sellerCustNo": "lottei1",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottei1",
-                    "sellerName": "롯데홈쇼핑입니다"
+                    "sellerName": "롯데홈쇼핑입니다",
+                    "GroupName" : "아이몰1"
                 },
                 {
                     "sellerCustNo": "lottedep1",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottedep1",
-                    "sellerName": "롯데백화점_롯데홈"
+                    "sellerName": "롯데백화점_롯데홈",
+                    "GroupName" : "백화점1"
                 },
                 {
                     "sellerCustNo": "lottetv1",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottetv1",
-                    "sellerName": "롯데홈쇼핑TV"
+                    "sellerName": "롯데홈쇼핑TV",
+                    "GroupName" : "홈쇼핑1"
                 },
                 {
                     "sellerCustNo": "lottei2",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottei2",
-                    "sellerName": "롯데imall"
+                    "sellerName": "롯데imall",
+                    "GroupName" : "아이몰2"
                 },
                 {
                     "sellerCustNo": "lottedep",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottedep",
-                    "sellerName": "롯데백화점2관_"
+                    "sellerName": "롯데백화점2관_",
+                    "GroupName" : "백화점2"
                 },
                 {
                     "sellerCustNo": "lotteotv",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lotteotv",
-                    "sellerName": "롯데원티비"
+                    "sellerName": "롯데원티비",
+                    "GroupName" : "원티비"
                 },
                 {
                     "sellerCustNo": "lottetv2",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottetv2",
-                    "sellerName": "롯데TV홈쇼핑"
+                    "sellerName": "롯데TV홈쇼핑",
+                    "GroupName" : "홈쇼핑2"
                 }
             ]
         },
