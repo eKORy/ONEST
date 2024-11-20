@@ -554,7 +554,9 @@
                     "siteId": 1,
                     "masterId": 2096,
                     "sellerId": "borikids",
-                    "sellerName": "보리2"
+                    "sellerName": "보리2",
+                    "GroupName" : "보리",
+                    "cpc" : 100
                 },
                 {
                     "sellerCustNo": "half1234",
