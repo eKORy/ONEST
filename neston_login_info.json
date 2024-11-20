@@ -15,127 +15,98 @@
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottei1",
-                    "sellerName": "롯데홈쇼핑입니다",
-                    "GroupName" : "아이몰1",
-                    "cpc" : "120"
+                    "sellerName": "롯데홈쇼핑입니다"
                 },
                 {
                     "sellerCustNo": "132201438",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottetv1",
-                    "sellerName": "롯데 홈쇼핑",
-                    "GroupName" : "홈쇼핑1",
-                    "cpc" : "150"
-                    
+                    "sellerName": "롯데 홈쇼핑"
                 },
                 {
                     "sellerCustNo": "132201426",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottedep1",
-                    "sellerName": "롯데홈쇼핑롯데백화점",
-                    "GroupName" : "백화점1",
-                    "cpc" : "100"
+                    "sellerName": "롯데홈쇼핑롯데백화점"
                 },
                 {
                     "sellerCustNo": "153420482",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottedep",
-                    "sellerName": "롯데 백화점",
-                    "GroupName" : "백화점2",
-                    "cpc" : "100"
+                    "sellerName": "롯데 백화점"
                 },
                 {
                     "sellerCustNo": "153444153",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottei2",
-                    "sellerName": "롯데 아이몰",
-                    "GroupName" : "아이몰2",
-                    "cpc" : "120"
+                    "sellerName": "롯데 아이몰"
                 },
                 {
                     "sellerCustNo": "153420481",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lotteotv",
-                    "sellerName": "롯데 원티비",
-                    "GroupName" : "원티비",
-                    "cpc" : "150"
+                    "sellerName": "롯데 원티비"
                 },
                 {
                     "sellerCustNo": "153420480",
                     "siteId": 2,
                     "masterId": 334615,
                     "sellerId": "lottetv",
-                    "sellerName": "롯데  홈쇼핑",
-                    "GroupName" : "홈쇼핑2",
-                    "cpc" : "150"
+                    "sellerName": "롯데  홈쇼핑"
                 },
                 {
                     "sellerCustNo": "lottei1",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottei1",
-                    "sellerName": "롯데홈쇼핑입니다",
-                    "GroupName" : "아이몰1",
-                    "cpc" : "120"
+                    "sellerName": "롯데홈쇼핑입니다"
                 },
                 {
                     "sellerCustNo": "lottedep1",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottedep1",
-                    "sellerName": "롯데백화점_롯데홈",
-                    "GroupName" : "백화점1",
-                    "cpc" : "100"
+                    "sellerName": "롯데백화점_롯데홈"
                 },
                 {
                     "sellerCustNo": "lottetv1",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottetv1",
-                    "sellerName": "롯데홈쇼핑TV",
-                    "GroupName" : "홈쇼핑1",
-                    "cpc" : "150"
+                    "sellerName": "롯데홈쇼핑TV"
                 },
                 {
                     "sellerCustNo": "lottei2",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottei2",
-                    "sellerName": "롯데imall",
-                    "GroupName" : "아이몰2",
-                    "cpc" : "120"
+                    "sellerName": "롯데imall"
                 },
                 {
                     "sellerCustNo": "lottedep",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottedep",
-                    "sellerName": "롯데백화점2관_",
-                    "GroupName" : "백화점2",
-                    "cpc" : "100"
+                    "sellerName": "롯데백화점2관_"
                 },
                 {
                     "sellerCustNo": "lotteotv",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lotteotv",
-                    "sellerName": "롯데원티비",
-                    "GroupName" : "원티비",
-                    "cpc" : "150"
+                    "sellerName": "롯데원티비"
                 },
                 {
                     "sellerCustNo": "lottetv2",
                     "siteId": 1,
                     "masterId": 334615,
                     "sellerId": "lottetv2",
-                    "sellerName": "롯데TV홈쇼핑",
-                    "GroupName" : "홈쇼핑2",
-                    "cpc" : "150"
+                    "sellerName": "롯데TV홈쇼핑"
                 }
             ]
         },
@@ -400,7 +371,7 @@
     },
     "witwit20": {
         "id": "witwit20",
-        "pw": "Rnjsthdxor11!!",
+        "pw": "Onest123##",
         "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech,winand,ktmmobile",
         "kam486": {
             "Buget": 0,
@@ -730,43 +701,7 @@
     "witwit21": {
         "id": "witwit21",
         "pw": "123qweasdZXC!",
-        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1,alco2001,worldsheet",
-        "worldsheet": {
-            "Buget": 0,
-            "GmktBuget": 0,
-            "IacBuget": 0,
-            "MasterId": 24986,
-            "sellerList": [
-                {
-                    "sellerCustNo": "111567641",
-                    "siteId": 2,
-                    "masterId": 24986,
-                    "sellerId": "worldsheet",
-                    "sellerName": "월드시트"
-                },
-                {
-                    "sellerCustNo": "116111903",
-                    "siteId": 2,
-                    "masterId": 24986,
-                    "sellerId": "wdsheet",
-                    "sellerName": "둥지꾸미기"
-                },
-                {
-                    "sellerCustNo": "wdsheet",
-                    "siteId": 1,
-                    "masterId": 24986,
-                    "sellerId": "wdsheet",
-                    "sellerName": "둥지꾸미기"
-                },
-                {
-                    "sellerCustNo": "worldsheet",
-                    "siteId": 1,
-                    "masterId": 24986,
-                    "sellerId": "worldsheet",
-                    "sellerName": "월드시트"
-                }
-            ]
-        },
+        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1,alco2001",
         "glcom3445": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -996,6 +931,42 @@
                     "masterId": 35392,
                     "sellerId": "incomshop",
                     "sellerName": "시트나라"
+                }
+            ]
+        },
+        "worldsheet": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 24986,
+            "sellerList": [
+                {
+                    "sellerCustNo": "111567641",
+                    "siteId": 2,
+                    "masterId": 24986,
+                    "sellerId": "worldsheet",
+                    "sellerName": "월드시트"
+                },
+                {
+                    "sellerCustNo": "116111903",
+                    "siteId": 2,
+                    "masterId": 24986,
+                    "sellerId": "wdsheet",
+                    "sellerName": "둥지꾸미기"
+                },
+                {
+                    "sellerCustNo": "wdsheet",
+                    "siteId": 1,
+                    "masterId": 24986,
+                    "sellerId": "wdsheet",
+                    "sellerName": "둥지꾸미기"
+                },
+                {
+                    "sellerCustNo": "worldsheet",
+                    "siteId": 1,
+                    "masterId": 24986,
+                    "sellerId": "worldsheet",
+                    "sellerName": "월드시트"
                 }
             ]
         }
