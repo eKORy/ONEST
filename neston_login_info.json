@@ -193,14 +193,19 @@
                     "siteId": 2,
                     "masterId": 373056,
                     "sellerId": "hnsmall",
-                    "sellerName": "홈앤쇼핑"
+                    "sellerName": "홈앤쇼핑",
+                    "GroupName" : "몰G1",
+                    "cpc" : 90
                 },
                 {
                     "sellerCustNo": "135413349",
                     "siteId": 2,
                     "masterId": 373056,
                     "sellerId": "hnsmalltv",
-                    "sellerName": "홈앤 쇼핑"
+                    "sellerName": "홈앤 쇼핑",
+                    "GroupName" : "홈G1",
+                    "cpc" : 90
+
                 },
                 {
                     "sellerCustNo": "136732806",
@@ -214,7 +219,9 @@
                     "siteId": 2,
                     "masterId": 373056,
                     "sellerId": "hnsmec",
-                    "sellerName": "홈앤쇼핑1"
+                    "sellerName": "홈앤쇼핑1",
+                    "GroupName" : "몰G2",
+                    "cpc" : 90
                 },
                 {
                     "sellerCustNo": "149407397",
@@ -228,21 +235,27 @@
                     "siteId": 2,
                     "masterId": 373056,
                     "sellerId": "hnstvc",
-                    "sellerName": "홈앤쇼핑3"
+                    "sellerName": "홈앤쇼핑3",
+                    "GroupName" : "홈G2",
+                    "cpc" : 90
                 },
                 {
                     "sellerCustNo": "hnsmall",
                     "siteId": 1,
                     "masterId": 373056,
                     "sellerId": "hnsmall",
-                    "sellerName": "(주)홈앤쇼핑"
+                    "sellerName": "(주)홈앤쇼핑",
+                    "GroupName" : "몰A2",
+                    "cpc" : 90
                 },
                 {
                     "sellerCustNo": "hnsmalltv",
                     "siteId": 1,
                     "masterId": 373056,
                     "sellerId": "hnsmalltv",
-                    "sellerName": "홈앤쇼핑TV"
+                    "sellerName": "홈앤쇼핑TV",
+                    "GroupName" : "홈A2",
+                    "cpc" : 90
                 },
                 {
                     "sellerCustNo": "hnstest",
