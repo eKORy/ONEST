@@ -8,7 +8,7 @@
             "Buget": 0,
             "GmktBuget": 0,
             "IacBuget": 0,
-            "soldout" : "Y",
+            "soldout": "Y",
             "MasterId": 334615,
             "sellerList": [
                 {
@@ -17,8 +17,8 @@
                     "masterId": 334615,
                     "sellerId": "lottei1",
                     "sellerName": "롯데홈쇼핑입니다",
-                    "GroupName" : "아이몰1",
-                    "cpc" : "120"
+                    "GroupName": "아이몰1",
+                    "cpc": "120"
                 },
                 {
                     "sellerCustNo": "132201438",
@@ -26,9 +26,8 @@
                     "masterId": 334615,
                     "sellerId": "lottetv1",
                     "sellerName": "롯데 홈쇼핑",
-                    "GroupName" : "홈쇼핑1",
-                    "cpc" : "150"
-                    
+                    "GroupName": "홈쇼핑1",
+                    "cpc": "150"
                 },
                 {
                     "sellerCustNo": "132201426",
@@ -36,8 +35,8 @@
                     "masterId": 334615,
                     "sellerId": "lottedep1",
                     "sellerName": "롯데홈쇼핑롯데백화점",
-                    "GroupName" : "백화점1",
-                    "cpc" : "100"
+                    "GroupName": "백화점1",
+                    "cpc": "100"
                 },
                 {
                     "sellerCustNo": "153420482",
@@ -45,8 +44,8 @@
                     "masterId": 334615,
                     "sellerId": "lottedep",
                     "sellerName": "롯데 백화점",
-                    "GroupName" : "백화점2",
-                    "cpc" : "100"
+                    "GroupName": "백화점2",
+                    "cpc": "100"
                 },
                 {
                     "sellerCustNo": "153444153",
@@ -54,8 +53,8 @@
                     "masterId": 334615,
                     "sellerId": "lottei2",
                     "sellerName": "롯데 아이몰",
-                    "GroupName" : "아이몰2",
-                    "cpc" : "120"
+                    "GroupName": "아이몰2",
+                    "cpc": "120"
                 },
                 {
                     "sellerCustNo": "153420481",
@@ -63,8 +62,8 @@
                     "masterId": 334615,
                     "sellerId": "lotteotv",
                     "sellerName": "롯데 원티비",
-                    "GroupName" : "원티비",
-                    "cpc" : "150"
+                    "GroupName": "원티비",
+                    "cpc": "150"
                 },
                 {
                     "sellerCustNo": "153420480",
@@ -72,8 +71,8 @@
                     "masterId": 334615,
                     "sellerId": "lottetv",
                     "sellerName": "롯데  홈쇼핑",
-                    "GroupName" : "홈쇼핑2",
-                    "cpc" : "150"
+                    "GroupName": "홈쇼핑2",
+                    "cpc": "150"
                 },
                 {
                     "sellerCustNo": "lottei1",
@@ -81,8 +80,8 @@
                     "masterId": 334615,
                     "sellerId": "lottei1",
                     "sellerName": "롯데홈쇼핑입니다",
-                    "GroupName" : "아이몰1",
-                    "cpc" : "120"
+                    "GroupName": "아이몰1",
+                    "cpc": "120"
                 },
                 {
                     "sellerCustNo": "lottedep1",
@@ -90,8 +89,8 @@
                     "masterId": 334615,
                     "sellerId": "lottedep1",
                     "sellerName": "롯데백화점_롯데홈",
-                    "GroupName" : "백화점1",
-                    "cpc" : "100"
+                    "GroupName": "백화점1",
+                    "cpc": "100"
                 },
                 {
                     "sellerCustNo": "lottetv1",
@@ -99,8 +98,8 @@
                     "masterId": 334615,
                     "sellerId": "lottetv1",
                     "sellerName": "롯데홈쇼핑TV",
-                    "GroupName" : "홈쇼핑1",
-                    "cpc" : "150"
+                    "GroupName": "홈쇼핑1",
+                    "cpc": "150"
                 },
                 {
                     "sellerCustNo": "lottei2",
@@ -108,8 +107,8 @@
                     "masterId": 334615,
                     "sellerId": "lottei2",
                     "sellerName": "롯데imall",
-                    "GroupName" : "아이몰2",
-                    "cpc" : "120"
+                    "GroupName": "아이몰2",
+                    "cpc": "120"
                 },
                 {
                     "sellerCustNo": "lottedep",
@@ -117,8 +116,8 @@
                     "masterId": 334615,
                     "sellerId": "lottedep",
                     "sellerName": "롯데백화점2관_",
-                    "GroupName" : "백화점2",
-                    "cpc" : "100"
+                    "GroupName": "백화점2",
+                    "cpc": "100"
                 },
                 {
                     "sellerCustNo": "lotteotv",
@@ -126,8 +125,8 @@
                     "masterId": 334615,
                     "sellerId": "lotteotv",
                     "sellerName": "롯데원티비",
-                    "GroupName" : "원티비",
-                    "cpc" : "150"
+                    "GroupName": "원티비",
+                    "cpc": "150"
                 },
                 {
                     "sellerCustNo": "lottetv2",
@@ -135,8 +134,8 @@
                     "masterId": 334615,
                     "sellerId": "lottetv2",
                     "sellerName": "롯데TV홈쇼핑",
-                    "GroupName" : "홈쇼핑2",
-                    "cpc" : "150"
+                    "GroupName": "홈쇼핑2",
+                    "cpc": "150"
                 }
             ]
         },
@@ -195,8 +194,8 @@
                     "masterId": 373056,
                     "sellerId": "hnsmall",
                     "sellerName": "홈앤쇼핑",
-                    "GroupName" : "몰G1",
-                    "cpc" : 90
+                    "GroupName": "몰G1",
+                    "cpc": 90
                 },
                 {
                     "sellerCustNo": "135413349",
@@ -204,9 +203,8 @@
                     "masterId": 373056,
                     "sellerId": "hnsmalltv",
                     "sellerName": "홈앤 쇼핑",
-                    "GroupName" : "홈G1",
-                    "cpc" : 90
-
+                    "GroupName": "홈G1",
+                    "cpc": 90
                 },
                 {
                     "sellerCustNo": "136732806",
@@ -221,8 +219,8 @@
                     "masterId": 373056,
                     "sellerId": "hnsmec",
                     "sellerName": "홈앤쇼핑1",
-                    "GroupName" : "몰G2",
-                    "cpc" : 90
+                    "GroupName": "몰G2",
+                    "cpc": 90
                 },
                 {
                     "sellerCustNo": "149407397",
@@ -237,8 +235,8 @@
                     "masterId": 373056,
                     "sellerId": "hnstvc",
                     "sellerName": "홈앤쇼핑3",
-                    "GroupName" : "홈G2",
-                    "cpc" : 90
+                    "GroupName": "홈G2",
+                    "cpc": 90
                 },
                 {
                     "sellerCustNo": "hnsmall",
@@ -246,8 +244,8 @@
                     "masterId": 373056,
                     "sellerId": "hnsmall",
                     "sellerName": "(주)홈앤쇼핑",
-                    "GroupName" : "몰A2",
-                    "cpc" : 90
+                    "GroupName": "몰A2",
+                    "cpc": 90
                 },
                 {
                     "sellerCustNo": "hnsmalltv",
@@ -255,8 +253,8 @@
                     "masterId": 373056,
                     "sellerId": "hnsmalltv",
                     "sellerName": "홈앤쇼핑TV",
-                    "GroupName" : "홈A2",
-                    "cpc" : 90
+                    "GroupName": "홈A2",
+                    "cpc": 90
                 },
                 {
                     "sellerCustNo": "hnstest",
@@ -493,8 +491,8 @@
                     "masterId": 2096,
                     "sellerId": "borikids",
                     "sellerName": "boribori2",
-                    "GroupName" : "보리",
-                    "cpc" : 100
+                    "GroupName": "보리",
+                    "cpc": 100
                 },
                 {
                     "sellerCustNo": "122400580",
@@ -523,8 +521,8 @@
                     "masterId": 2096,
                     "sellerId": "halfcom",
                     "sellerName": "하프클럽",
-                    "GroupName" : "하프",
-                    "cpc" : 100
+                    "GroupName": "하프",
+                    "cpc": 100
                 },
                 {
                     "sellerCustNo": "103719175",
@@ -532,8 +530,8 @@
                     "masterId": 2096,
                     "sellerId": "triadmin",
                     "sellerName": "boribori",
-                    "GroupName" : "보리",
-                    "cpc" : 100
+                    "GroupName": "보리",
+                    "cpc": 100
                 },
                 {
                     "sellerCustNo": "123780059",
@@ -569,8 +567,8 @@
                     "masterId": 2096,
                     "sellerId": "borikids",
                     "sellerName": "보리2",
-                    "GroupName" : "보리",
-                    "cpc" : 100
+                    "GroupName": "보리",
+                    "cpc": 100
                 },
                 {
                     "sellerCustNo": "half1234",
@@ -578,8 +576,8 @@
                     "masterId": 2096,
                     "sellerId": "half1234",
                     "sellerName": "하프클럽",
-                    "GroupName" : "하프",
-                    "cpc" : 100
+                    "GroupName": "하프",
+                    "cpc": 100
                 },
                 {
                     "sellerCustNo": "ogagemall",
@@ -735,18 +733,18 @@
             "MasterId": 276568,
             "sellerList": [
                 {
-                  "sellerCustNo": "128181637",
-                  "siteId": 2,
-                  "masterId": 276568,
-                  "sellerId": "ktmmobile",
-                  "sellerName": "ktmmobile"
+                    "sellerCustNo": "128181637",
+                    "siteId": 2,
+                    "masterId": 276568,
+                    "sellerId": "ktmmobile",
+                    "sellerName": "ktmmobile"
                 },
                 {
-                  "sellerCustNo": "ktmmobile",
-                  "siteId": 1,
-                  "masterId": 276568,
-                  "sellerId": "ktmmobile",
-                  "sellerName": "ktmmobile"
+                    "sellerCustNo": "ktmmobile",
+                    "siteId": 1,
+                    "masterId": 276568,
+                    "sellerId": "ktmmobile",
+                    "sellerName": "ktmmobile"
                 }
             ]
         }
@@ -754,7 +752,7 @@
     "witwit21": {
         "id": "witwit21",
         "pw": "123qweasdZXC!",
-        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1,alco2001,worldsheet",
+        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1,alco2001,worldsheet,ecoworld55",
         "worldsheet": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -847,7 +845,7 @@
                     "masterId": 39641,
                     "sellerId": "locknlockm",
                     "sellerName": "락앤락공식몰",
-                    "cpc" : "100"
+                    "cpc": "100"
                 },
                 {
                     "sellerCustNo": "locknlockm",
@@ -855,7 +853,7 @@
                     "masterId": 39641,
                     "sellerId": "locknlockm",
                     "sellerName": "락앤락공식몰",
-                    "cpc" : "100"
+                    "cpc": "100"
                 }
             ]
         },
@@ -866,25 +864,25 @@
             "MasterId": 410752,
             "sellerList": [
                 {
-                  "sellerCustNo": "142468018",
-                  "siteId": 2,
-                  "masterId": 410752,
-                  "sellerId": "boostlab",
-                  "sellerName": "ONZO"
+                    "sellerCustNo": "142468018",
+                    "siteId": 2,
+                    "masterId": 410752,
+                    "sellerId": "boostlab",
+                    "sellerName": "ONZO"
                 },
                 {
-                  "sellerCustNo": "156803336",
-                  "siteId": 2,
-                  "masterId": 410752,
-                  "sellerId": "boostlab01",
-                  "sellerName": "부스트랩_뷰티"
+                    "sellerCustNo": "156803336",
+                    "siteId": 2,
+                    "masterId": 410752,
+                    "sellerId": "boostlab01",
+                    "sellerName": "부스트랩_뷰티"
                 },
                 {
-                  "sellerCustNo": "boostlab",
-                  "siteId": 1,
-                  "masterId": 410752,
-                  "sellerId": "boostlab",
-                  "sellerName": "온조(ONZO)"
+                    "sellerCustNo": "boostlab",
+                    "siteId": 1,
+                    "masterId": 410752,
+                    "sellerId": "boostlab",
+                    "sellerName": "온조(ONZO)"
                 }
             ]
         },
@@ -922,7 +920,7 @@
                     "masterId": 608981,
                     "sellerId": "thesaeum",
                     "sellerName": "아더오더",
-                    "sellerBuget" : 0
+                    "sellerBuget": 0
                 },
                 {
                     "sellerCustNo": "thesaeum",
@@ -930,7 +928,7 @@
                     "masterId": 608981,
                     "sellerId": "thesaeum",
                     "sellerName": "아더오더",
-                    "sellerBuget" : 0
+                    "sellerBuget": 0
                 }
             ]
         },
@@ -941,13 +939,28 @@
             "MasterId": 540424,
             "sellerList": [
                 {
-                  "sellerCustNo": "153152204",
-                  "siteId": 2,
-                  "masterId": 540424,
-                  "sellerId": "alco2001",
-                  "sellerName": "아이에스리빙몰"
+                    "sellerCustNo": "153152204",
+                    "siteId": 2,
+                    "masterId": 540424,
+                    "sellerId": "alco2001",
+                    "sellerName": "아이에스리빙몰"
                 }
-              ]
+            ]
+        },
+        "ecoworld55": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 506316,
+            "sellerList": [
+                {
+                    "sellerCustNo": "141945705",
+                    "siteId": 2,
+                    "masterId": 506316,
+                    "sellerId": "ecoworld55",
+                    "sellerName": "에코월드스토어"
+                }
+            ]
         }
     },
     "witwit22": {
