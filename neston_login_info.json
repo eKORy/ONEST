@@ -970,7 +970,7 @@
     "witwit22": {
         "id": "witwit22",
         "pw": "onest123!!",
-        "SelectMaster": "",
+        "SelectMaster": "nutirone",
         "locknlock1": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -990,6 +990,56 @@
                     "masterId": 39641,
                     "sellerId": "locknlockm",
                     "sellerName": "락앤락공식몰"
+                }
+            ]
+        },
+        "nutirone": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 39641,
+            "sellerList": [
+                {
+                  "sellerCustNo": "123233361",
+                  "siteId": 2,
+                  "masterId": 299383,
+                  "sellerId": "nutrione",
+                  "sellerName": "뉴트리원"
+                },
+                {
+                  "sellerCustNo": "130599325",
+                  "siteId": 2,
+                  "masterId": 299383,
+                  "sellerId": "nutrione2",
+                  "sellerName": "globalnutrione"
+                },
+                {
+                  "sellerCustNo": "153574916",
+                  "siteId": 2,
+                  "masterId": 299383,
+                  "sellerId": "nutrione3",
+                  "sellerName": "디페토공식스토어"
+                },
+                {
+                  "sellerCustNo": "nutrionelife",
+                  "siteId": 1,
+                  "masterId": 299383,
+                  "sellerId": "nutrionelife",
+                  "sellerName": "뉴트리원라이프"
+                },
+                {
+                  "sellerCustNo": "nutrione2",
+                  "siteId": 1,
+                  "masterId": 299383,
+                  "sellerId": "nutrione2",
+                  "sellerName": "NutrioneGlobal"
+                },
+                {
+                  "sellerCustNo": "nutrione3",
+                  "siteId": 1,
+                  "masterId": 299383,
+                  "sellerId": "nutrione3",
+                  "sellerName": "디페토공식스토어"
                 }
             ]
         }
