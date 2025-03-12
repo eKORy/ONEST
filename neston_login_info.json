@@ -755,7 +755,7 @@
     "witwit21": {
         "id": "witwit21",
         "pw": "123qweasdZXC!",
-        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1,alco2001,worldsheet,ecoworld55",
+        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1,alco2001,worldsheet,ecoworld55,thesaeum",
         "worldsheet": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -971,28 +971,6 @@
         "id": "witwit22",
         "pw": "onest123!!",
         "SelectMaster": "nutirone",
-        "locknlock1": {
-            "Buget": 0,
-            "GmktBuget": 0,
-            "IacBuget": 0,
-            "MasterId": 39641,
-            "sellerList": [
-                {
-                    "sellerCustNo": "122855271",
-                    "siteId": 2,
-                    "masterId": 39641,
-                    "sellerId": "locknlockm",
-                    "sellerName": "락앤락공식몰"
-                },
-                {
-                    "sellerCustNo": "locknlockm",
-                    "siteId": 1,
-                    "masterId": 39641,
-                    "sellerId": "locknlockm",
-                    "sellerName": "락앤락공식몰"
-                }
-            ]
-        },
         "nutirone": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -1040,33 +1018,6 @@
                   "masterId": 299383,
                   "sellerId": "nutrione3",
                   "sellerName": "디페토공식스토어"
-                }
-            ]
-        }
-    },
-    "witwit26": {
-        "id": "witwit26",
-        "pw": "Zxc321zxc321!",
-        "SelectMaster": "sheetnara,worldsheet",
-        "sheetnara": {
-            "Buget": 0,
-            "GmktBuget": 0,
-            "IacBuget": 0,
-            "MasterId": 35392,
-            "sellerList": [
-                {
-                    "sellerCustNo": "108605793",
-                    "siteId": 2,
-                    "masterId": 35392,
-                    "sellerId": "sheetnara",
-                    "sellerName": "시트 나라"
-                },
-                {
-                    "sellerCustNo": "incomshop",
-                    "siteId": 1,
-                    "masterId": 35392,
-                    "sellerId": "incomshop",
-                    "sellerName": "시트나라"
                 }
             ]
         }
