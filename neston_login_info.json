@@ -3,7 +3,7 @@
     "witwit19": {
         "id": "witwit19",
         "pw": "onest123!!",
-        "SelectMaster": "lottei1,mario4321,specialistum,g1300kcom,dcollect,hyungji033,hyungjicom",
+        "SelectMaster": "lottei1,mario4321,specialistum,g1300kcom,dcollect,hyungji033,hyungjicom,kocosinter,luxeprime,heritageho",
         "lottei1": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -410,6 +410,72 @@
                     "sellerName": "가방pop"
                 }
             ]
+        },
+        "kocosinter": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 805442,
+            "sellerList": [
+                {
+                    "sellerCustNo": "160861195",
+                    "siteId": 2,
+                    "masterId": 805442,
+                    "sellerId": "kocosinter",
+                    "sellerName": "코코스인터내셔널"
+                },
+                {
+                    "sellerCustNo": "kocosinter",
+                    "siteId": 1,
+                    "masterId": 805442,
+                    "sellerId": "kocosinter",
+                    "sellerName": "코코스인터내셔널"
+                }
+            ]
+        },
+        "luxeprime": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 805466,
+            "sellerList": [
+                {
+                    "sellerCustNo": "160861449",
+                    "siteId": 2,
+                    "masterId": 805466,
+                    "sellerId": "luxeprime",
+                    "sellerName": "럭스프라임 랩스(Luxe Prime Labs)"
+                },
+                {
+                    "sellerCustNo": "luxeprime",
+                    "siteId": 1,
+                    "masterId": 805466,
+                    "sellerId": "luxeprime",
+                    "sellerName": "럭스프라임 랩스(Luxe Prime Labs)"
+                }
+            ]
+        },
+        "heritageho": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 805460,
+            "sellerList": [
+                {
+                    "sellerCustNo": "160861386",
+                    "siteId": 2,
+                    "masterId": 805460,
+                    "sellerId": "heritageho",
+                    "sellerName": "헤리티지 홈스(Heritage Homes)"
+                },
+                {
+                    "sellerCustNo": "heritageho",
+                    "siteId": 1,
+                    "masterId": 805460,
+                    "sellerId": "heritageho",
+                    "sellerName": "헤리티지 홈스(Heritage Homes)"
+                }
+            ]
         }
     },
     "witwit20": {
@@ -755,7 +821,7 @@
     "witwit21": {
         "id": "witwit21",
         "pw": "123qweasdZXC!",
-        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1,alco2001,worldsheet,ecoworld55,thesaeum",
+        "SelectMaster": "glcom3445,inksystem,boostlab,locknlock1,alco2001,worldsheet,ecoworld55,thesaeum,kocosglobal",
         "worldsheet": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -965,6 +1031,35 @@
                     "sellerName": "에코월드스토어"
                 }
             ]
+        },
+        "kocosglobal": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 472048,
+            "sellerList": [
+                {
+                    "sellerCustNo": "148363658",
+                    "siteId": 2,
+                    "masterId": 472048,
+                    "sellerId": "tourmap114",
+                    "sellerName": "코코스글러벌"
+                },
+                {
+                    "sellerCustNo": "kocosglobal",
+                    "siteId": 1,
+                    "masterId": 472048,
+                    "sellerId": "kocosglobal",
+                    "sellerName": "코코스글로벌샵"
+                },
+                {
+                    "sellerCustNo": "kocosglobal1",
+                    "siteId": 1,
+                    "masterId": 472048,
+                    "sellerId": "kocosglobal1",
+                    "sellerName": "코코스글러벌"
+                }
+            ]
         }
     },
     "witwit22": {
@@ -978,46 +1073,46 @@
             "MasterId": 299383,
             "sellerList": [
                 {
-                  "sellerCustNo": "123233361",
-                  "siteId": 2,
-                  "masterId": 299383,
-                  "sellerId": "nutrione",
-                  "sellerName": "뉴트리원"
+                    "sellerCustNo": "123233361",
+                    "siteId": 2,
+                    "masterId": 299383,
+                    "sellerId": "nutrione",
+                    "sellerName": "뉴트리원"
                 },
                 {
-                  "sellerCustNo": "130599325",
-                  "siteId": 2,
-                  "masterId": 299383,
-                  "sellerId": "nutrione2",
-                  "sellerName": "globalnutrione"
+                    "sellerCustNo": "130599325",
+                    "siteId": 2,
+                    "masterId": 299383,
+                    "sellerId": "nutrione2",
+                    "sellerName": "globalnutrione"
                 },
                 {
-                  "sellerCustNo": "153574916",
-                  "siteId": 2,
-                  "masterId": 299383,
-                  "sellerId": "nutrione3",
-                  "sellerName": "디페토공식스토어"
+                    "sellerCustNo": "153574916",
+                    "siteId": 2,
+                    "masterId": 299383,
+                    "sellerId": "nutrione3",
+                    "sellerName": "디페토공식스토어"
                 },
                 {
-                  "sellerCustNo": "nutrionelife",
-                  "siteId": 1,
-                  "masterId": 299383,
-                  "sellerId": "nutrionelife",
-                  "sellerName": "뉴트리원라이프"
+                    "sellerCustNo": "nutrionelife",
+                    "siteId": 1,
+                    "masterId": 299383,
+                    "sellerId": "nutrionelife",
+                    "sellerName": "뉴트리원라이프"
                 },
                 {
-                  "sellerCustNo": "nutrione2",
-                  "siteId": 1,
-                  "masterId": 299383,
-                  "sellerId": "nutrione2",
-                  "sellerName": "NutrioneGlobal"
+                    "sellerCustNo": "nutrione2",
+                    "siteId": 1,
+                    "masterId": 299383,
+                    "sellerId": "nutrione2",
+                    "sellerName": "NutrioneGlobal"
                 },
                 {
-                  "sellerCustNo": "nutrione3",
-                  "siteId": 1,
-                  "masterId": 299383,
-                  "sellerId": "nutrione3",
-                  "sellerName": "디페토공식스토어"
+                    "sellerCustNo": "nutrione3",
+                    "siteId": 1,
+                    "masterId": 299383,
+                    "sellerId": "nutrione3",
+                    "sellerName": "디페토공식스토어"
                 }
             ]
         }
