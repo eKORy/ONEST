@@ -481,7 +481,7 @@
     "witwit20": {
         "id": "witwit20",
         "pw": "Onest123@@",
-        "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech,winand,ktmmobile",
+        "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech,winand,ktmmobile,forceart",
         "kam486": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -530,6 +530,65 @@
                     "masterId": 442880,
                     "sellerId": "richbeam1",
                     "sellerName": "리치빔"
+                }
+            ]
+        },
+        "forceart": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 7171,
+            "sellerList": [
+                {
+                    "sellerCustNo": null,
+                    "SellerCustNo": "forceart",
+                    "SellerId": "forceart",
+                    "siteId": 1,
+                    "ValidCpcBalance": 118195,
+                    "EventBalance": 0,
+                    "CardBalance": 4548,
+                    "CashBalance": 113647,
+                    "AdBalance": 0,
+                    "SdBalance": 0,
+                    "TotalBalance": 118195,
+                    "CreditBalance": 0,
+                    "CpcAdBalance": 0,
+                    "AiAdBalance": 0,
+                    "NewCppBalance": 0
+                },
+                {
+                    "sellerCustNo": null,
+                    "SellerCustNo": "109294350",
+                    "SellerId": "forceart1",
+                    "siteId": 2,
+                    "ValidCpcBalance": 18606,
+                    "EventBalance": 0,
+                    "CardBalance": 12606,
+                    "CashBalance": 6000,
+                    "AdBalance": 0,
+                    "SdBalance": 18606,
+                    "TotalBalance": 18606,
+                    "CreditBalance": 0,
+                    "CpcAdBalance": 0,
+                    "AiAdBalance": 0,
+                    "NewCppBalance": 0
+                },
+                {
+                    "sellerCustNo": null,
+                    "SellerCustNo": "ssayomall",
+                    "SellerId": "ssayomall",
+                    "siteId": 1,
+                    "ValidCpcBalance": 0,
+                    "EventBalance": 0,
+                    "CardBalance": 0,
+                    "CashBalance": 0,
+                    "AdBalance": 0,
+                    "SdBalance": 0,
+                    "TotalBalance": 0,
+                    "CreditBalance": 0,
+                    "CpcAdBalance": 0,
+                    "AiAdBalance": 0,
+                    "NewCppBalance": 0
                 }
             ]
         },
