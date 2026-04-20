@@ -481,7 +481,7 @@
     "witwit20": {
         "id": "witwit20",
         "pw": "Adx123!!",
-        "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech,winand,ktmmobile,forceart",
+        "SelectMaster": "kam486,pncg3936,borikids,yhsangsa03,ozkiz,dooricare,implextech,winand,ktmmobile,forceart,e_goldtech",
         "kam486": {
             "Buget": 0,
             "GmktBuget": 0,
@@ -873,6 +873,50 @@
                     "masterId": 276568,
                     "sellerId": "ktmmobile",
                     "sellerName": "ktmmobile"
+                }
+            ]
+        },
+        "e_goldtech": {
+            "Buget": 0,
+            "GmktBuget": 0,
+            "IacBuget": 0,
+            "MasterId": 276568,
+            "sellerList": [
+                {
+                    "sellerCustNo": "124535681",
+                    "siteId": 2,
+                    "masterId": 192686,
+                    "sellerId": "e_goldtech",
+                    "sellerName": "라라쥬얼리",
+                    "isInActive": false,
+                    "IsSuccess": false
+                },
+                {
+                    "sellerCustNo": "125233336",
+                    "siteId": 2,
+                    "masterId": 192686,
+                    "sellerId": "goldtech-s",
+                    "sellerName": "goldtech",
+                    "isInActive": false,
+                    "IsSuccess": false
+                },
+                {
+                    "sellerCustNo": "egoldtech",
+                    "siteId": 1,
+                    "masterId": 192686,
+                    "sellerId": "egoldtech",
+                    "sellerName": "라라쥬얼리샵",
+                    "isInActive": false,
+                    "IsSuccess": false
+                },
+                {
+                    "sellerCustNo": "eunsujeocom",
+                    "siteId": 1,
+                    "masterId": 192686,
+                    "sellerId": "eunsujeocom",
+                    "sellerName": "eunsujeocom",
+                    "isInActive": false,
+                    "IsSuccess": false
                 }
             ]
         }
